@@ -1,8 +1,8 @@
 <h1>MegaMixPTBR</h1>
-Projeto de tradução do Mega Mix+
+Projeto de tradução do Mega Mix+</p>
 
-O objetivo é que cada pasta Textura/Traduzido esteja 100% igual a Textura/Original (Isso quer dizer que o jogo estará traduzido)
-Para isso, antes precisamos traduzir os Sprites para adicionarmos na Textura, então, comece pegando os arquivos na pasta Sprite/Original e traduza-os, depois coloque eles na Sprite/Traduzido
+<p>O objetivo é que cada pasta Textura/Traduzido esteja 100% igual a Textura/Original (Isso quer dizer que o jogo estará traduzido)</p>
+<p>Para isso, antes precisamos traduzir os Sprites para adicionarmos na Textura, então, comece pegando os arquivos na pasta Sprite/Original e traduza-os, depois coloque eles na Sprite/Traduzido</p>
 
 <h1>Esse mod não seria possível sem:</h1>
 <p>AmandaPeach</p>
