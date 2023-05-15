@@ -18,7 +18,6 @@ Projeto de tradução do Mega Mix+</p>
 
 <h1>Progresso:</h1>
 
-<p></p>
 <p>spr_nswgam_adv / Tela de Início: Completo!</p> 
 <p>spr_nswgam_cmn / ? : Não Iniciado</p>
 <p>spr_nswgam_custom.farc / Modo Custom? : Não Iniciado</p>
@@ -31,6 +30,8 @@ Projeto de tradução do Mega Mix+</p>
 <p>spr_nswgam_result / Tela de Resultado: 70%?</p>
 <p>spr_nswgam_songselector / Seleção de Música: Completo!</p>
 <p>spr_nswgam_tshirtsedit / Editor de TShirt: Não Iniciado</p>
+
+<p>str_array.bin / Textos Extras: Não Iniciado</p>
 
 <h1>Ferramentas:</h1>
 
