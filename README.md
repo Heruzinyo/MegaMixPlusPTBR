@@ -16,6 +16,22 @@ Projeto de tradução do Mega Mix+</p>
 <p>PHSticks</p>
 <p>ThisIsHH</p>
 
+<h1>Progresso:</h1>
+
+<p></p>
+<p>spr_nswgam_adv / Tela de Inicio: Completo!</p> 
+<p>spr_nswgam_cmn / ? : Não Iniciado</p>
+<p>spr_nswgam_custom.farc / Modo Custom? : Não Iniciado</p>
+<p>spr_nswgam_decoration / Decoração?: </p>
+<p>spr_nswgam_gallery / Galeria: Não Iniciado</p>
+<p>spr_nswgam_game / Modo Jogo: Não Iniciado</p>
+<p>spr_nswgam_menu / Menu Inicial: Completo!</p>
+<p>spr_nswgam_option / Menu Opções: Completo!</p>
+<p>spr_nswgam_playlist / Menu Playlist: Não Iniciado</p>
+<p>spr_nswgam_result / Tela de Resultado: 70%?</p>
+<p>spr_nswgam_songselector / Seleção de Música: Completo!</p>
+<p>spr_nswgam_tshirtsedit / Editor de TShirt: Não Iniciado</p>
+
 <h1>Ferramentas:</h1>
 
 [MikuMikuModel](https://github.com/blueskythlikesclouds/MikuMikuLibrary/releases/tag/v2.2.0): Use ele para extrair e importar os arquivos do jogo. Majoritariamente: extraia os Sprites & Texturas e importe as Texturas Traduzidas, para assim, criar um Mod!
