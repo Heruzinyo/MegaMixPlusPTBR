@@ -15,6 +15,7 @@ Projeto de tradução do Mega Mix+</p>
 <p>patto</p>
 <p>PHSticks</p>
 <p>ThisIsHH</p>
+<p>Haru</p>
 
 <h1>Progresso:</h1>
 
