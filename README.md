@@ -8,6 +8,7 @@ Projeto de tradução do Mega Mix+</p>
 <p>AmandaPeach</p>
 <p>Cabra</p>
 <p>chiyu</p>
+<p>DeadBossKill</p>
 <p>FONSII</p>
 <p>Futaba Tori</p>
 <p>Gregs</p>
