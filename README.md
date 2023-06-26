@@ -22,32 +22,32 @@ Projeto de tradução do Mega Mix+</p>
 
 <h1>Geral</h1>
 
-|       **Seção**      |       **Tradução**       |                                                      |       **Revisão**       |                                                     |
-|:--------------------:|:------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------------------------------------:|
-|         Geral        |      393/1870 (21%)      | ![Progress](https://progress-bar.dev/21/?&width=150) |       0/1870 (0%)       | ![Progress](https://progress-bar.dev/0/?&width=150) |
-| Geral (Sem Tutorial) |      393/1311 (29%)      | ![Progress](https://progress-bar.dev/29/?&width=150) |       0/1311 (0%)       | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|        Imagens       |      374/1044 (35%)      | ![Progress](https://progress-bar.dev/35/?&width=150) |       0/1044 (0%)       | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|       Tutorial       |        0/559 (0%)        |  ![Progress](https://progress-bar.dev/0/?&width=150) |        0/559 (0%)       | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|         Texto        | 19/267 (Estimativa) (7%) |  ![Progress](https://progress-bar.dev/7/?&width=150) | 0/267 (Estimativa) (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|       **Seção**      |        **Tradução**       |                                                      |       **Revisão**       |                                                      |
+|:--------------------:|:-------------------------:|:----------------------------------------------------:|:-----------------------:|:----------------------------------------------------:|
+|         Geral        |       402/1870 (21%)      | ![Progress](https://progress-bar.dev/21/?&width=150) |      257/1870 (13%)     | ![Progress](https://progress-bar.dev/13/?&width=150) |
+| Geral (Sem Tutorial) |       402/1311 (30%)      | ![Progress](https://progress-bar.dev/30/?&width=150) |      257/1311 (19%)     | ![Progress](https://progress-bar.dev/19/?&width=150) |
+|        Imagens       |       374/1044 (35%)      | ![Progress](https://progress-bar.dev/35/?&width=150) |      257/1044 (24%)     | ![Progress](https://progress-bar.dev/24/?&width=150) |
+|       Tutorial       |         0/559 (0%)        |  ![Progress](https://progress-bar.dev/0/?&width=150) |        0/559 (0%)       |  ![Progress](https://progress-bar.dev/0/?&width=150) |
+|         Texto        | 28/267 (Estimativa) (10%) | ![Progress](https://progress-bar.dev/10/?&width=150) | 0/267 (Estimativa) (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
 
 <h1>Imagens</h1>
 
-|       **Arquivo**       | **Tradução** |                                                       | **Revisão** |                                                     |
-|:-----------------------:|:------------:|:-----------------------------------------------------:|:-----------:|:---------------------------------------------------:|
-|       spr_gam_cmn       | 94/94 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/94 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|      spr_nswgam_adv     |  6/6 (100%)  | ![Progress](https://progress-bar.dev/100/?&width=150) |   0/6 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|      spr_nswgam_cmn     |  0/120 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/120 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|    spr_nswgam_custom    |  0/244 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/244 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|  spr_nswgam_decoration  |   0/44 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/44 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|    spr_nswgam_gallery   |  0/115 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/115 (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|     spr_nswgam_game     |  9/47 (19%)  |  ![Progress](https://progress-bar.dev/19/?&width=150) |  0/47 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|     spr_nswgam_menu     | 24/24 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/24 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|    spr_nswgam_option    | 69/69 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/69 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|   spr_nswgam_playlist   |   0/54 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/54 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|    spr_nswgam_result    | 74/74 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/74 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-| spr_nswgam_songselector | 84/84 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |  0/84 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|     spr_nswgam_staff    |   0/14 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/14 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
-|  spr_nswgam_tshirtsedit |   0/55 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/55 (0%)  | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|       **Arquivo**       | **Tradução** |                                                       |  **Revisão** |                                                       |
+|:-----------------------:|:------------:|:-----------------------------------------------------:|:------------:|:-----------------------------------------------------:|
+|       spr_gam_cmn       | 94/94 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |   0/94 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|      spr_nswgam_adv     |  6/6 (100%)  | ![Progress](https://progress-bar.dev/100/?&width=150) |  6/6 (100%)  | ![Progress](https://progress-bar.dev/100/?&width=150) |
+|      spr_nswgam_cmn     |  0/120 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/120 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|    spr_nswgam_custom    |  0/244 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/244 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|  spr_nswgam_decoration  |   0/44 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |   0/44 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|    spr_nswgam_gallery   |  0/115 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/115 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|     spr_nswgam_game     |  9/47 (19%)  |  ![Progress](https://progress-bar.dev/19/?&width=150) |   0/47 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|     spr_nswgam_menu     | 24/24 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 24/24 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |
+|    spr_nswgam_option    | 69/69 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 69/69 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |
+|   spr_nswgam_playlist   |   0/54 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |   0/54 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|    spr_nswgam_result    | 74/74 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 74/74 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |
+| spr_nswgam_songselector | 84/84 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 84/84 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |
+|     spr_nswgam_staff    |   0/14 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |   0/14 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|  spr_nswgam_tshirtsedit |   0/55 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |   0/55 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
 
 <h1>Tutorial</h1>
 
@@ -69,13 +69,13 @@ Projeto de tradução do Mega Mix+</p>
 
 <h1>Texto</h1>
 
-| **Arquivo** |       **Tradução**       |                                                     |       **Revisão**       |                                                     |
-|:-----------:|:------------------------:|:---------------------------------------------------:|:-----------------------:|:---------------------------------------------------:|
-|  str_array  | 19/267 (Estimativa) (7%) | ![Progress](https://progress-bar.dev/7/?&width=150) | 0/267 (Estimativa) (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+| **Arquivo** |        **Tradução**       |                                                      |       **Revisão**       |                                                     |
+|:-----------:|:-------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------------------------------------:|
+|  str_array  | 28/267 (Estimativa) (10%) | ![Progress](https://progress-bar.dev/10/?&width=150) | 0/267 (Estimativa) (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 
 <h1>Arquivos:</h1>
 
-<p>spr_gam_cmn / Elementos In-game : $\textcolor{yellow}{\textsf{Em Progresso}}$</p> 
+<p>spr_gam_cmn / Elementos In-game : $\textcolor{lime}{\textsf{Completo!}}$</p> 
 <p>spr_nswgam_adv / Tela de Início : $\textcolor{lime}{\textsf{Completo!}}$</p> 
 <p>spr_nswgam_cmn / Telas de Ajuda, Telas de Carregamento, Ícones do Menu : $\textcolor{red}{\textsf{Não Iniciado}}$</p>
 <p>spr_nswgam_custom.farc / Menu de Customização, Seleção de Módulos : $\textcolor{red}{\textsf{Não Iniciado}}$</p>
