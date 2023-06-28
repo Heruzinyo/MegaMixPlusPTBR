@@ -55,10 +55,10 @@ Projeto de tradução do Mega Mix+</p>
 
 <h1>Tutorial</h1>
 
-13 Versões Diferentes
-Arquivos Totais: 43 por Farc
-Arquivos Iguais: 37 Imagens Iguais Em Todos os Farc
-Botôes Totais: 24 Geral / 6 por Farc
+<p>13 Versões Diferentes</p>
+<p>Arquivos Totais: 43 por Farc</p>
+<p>Arquivos Iguais: 37 Imagens Iguais Em Todos os Farc</p>
+<p>Botôes Totais: 24 Geral / 6 por Farc</p>
 
 <h1>Arquivos:</h1>
 
