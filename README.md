@@ -24,9 +24,9 @@ Projeto de tradução do Mega Mix+</p>
 
 |       **Seção**      |        **Tradução**       |                                                      |       **Revisão**       |                                                      |
 |:--------------------:|:-------------------------:|:----------------------------------------------------:|:-----------------------:|:----------------------------------------------------:|
-|         Geral        |       402/1870 (21%)      | ![Progress](https://progress-bar.dev/21/?&width=150) |      257/1870 (13%)     | ![Progress](https://progress-bar.dev/13/?&width=150) |
-| Geral (Sem Tutorial) |       402/1311 (30%)      | ![Progress](https://progress-bar.dev/30/?&width=150) |      257/1311 (19%)     | ![Progress](https://progress-bar.dev/19/?&width=150) |
-|        Imagens       |       374/1044 (35%)      | ![Progress](https://progress-bar.dev/35/?&width=150) |      257/1044 (24%)     | ![Progress](https://progress-bar.dev/24/?&width=150) |
+|         Geral        |       416/1870 (22%)      | ![Progress](https://progress-bar.dev/22/?&width=150) |      257/1870 (13%)     | ![Progress](https://progress-bar.dev/13/?&width=150) |
+| Geral (Sem Tutorial) |       416/1311 (31%)      | ![Progress](https://progress-bar.dev/31/?&width=150) |      257/1311 (19%)     | ![Progress](https://progress-bar.dev/19/?&width=150) |
+|        Imagens       |       388/1044 (37%)      | ![Progress](https://progress-bar.dev/37/?&width=150) |      257/1044 (24%)     | ![Progress](https://progress-bar.dev/24/?&width=150) |
 |       Tutorial       |         0/559 (0%)        |  ![Progress](https://progress-bar.dev/0/?&width=150) |        0/559 (0%)       |  ![Progress](https://progress-bar.dev/0/?&width=150) |
 |         Texto        | 28/267 (Estimativa) (10%) | ![Progress](https://progress-bar.dev/10/?&width=150) | 0/267 (Estimativa) (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
 
@@ -46,7 +46,7 @@ Projeto de tradução do Mega Mix+</p>
 |   spr_nswgam_playlist   |   0/54 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |   0/54 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
 |    spr_nswgam_result    | 74/74 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 74/74 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |
 | spr_nswgam_songselector | 84/84 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 84/84 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |
-|     spr_nswgam_staff    |   0/14 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |   0/14 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|     spr_nswgam_staff    | 14/14 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |   0/14 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
 |  spr_nswgam_tshirtsedit |   0/55 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |   0/55 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
 
 <h1>Tutorial</h1>
@@ -87,7 +87,7 @@ Projeto de tradução do Mega Mix+</p>
 <p>spr_nswgam_playlist / Menu de Playlist : $\textcolor{red}{\textsf{Não Iniciado}}$</p>
 <p>spr_nswgam_result / Tela de Resultados : $\textcolor{lime}{\textsf{Completo!}}$</p>
 <p>spr_nswgam_songselector / Seleção de Música : $\textcolor{lime}{\textsf{Completo!}}$</p>
-<p>spr_nswgam_staff / Créditos : $\textcolor{red}{\textsf{Não Iniciado}}$</p>
+<p>spr_nswgam_staff / Créditos : $\textcolor{cyan}{\textsf{Completo, Mas Não Modificado}}$</p>
 <p>spr_nswgam_tshirtsedit / Criador de T-Shirt : $\textcolor{red}{\textsf{Não Iniciado}}$</p>
 <p>spr_gam_pv700 / Tutorial : $\textcolor{red}{\textsf{Não Iniciado}}$</p>
 <p>str_array / Textos Extras : $\textcolor{red}{\textsf{Não Iniciado}}$</p>
