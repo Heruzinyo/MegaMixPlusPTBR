@@ -66,9 +66,9 @@ Projeto de tradução do Mega Mix+</p>
 <p>spr_nswgam_adv / Tela de Início : $\textcolor{lime}{\textsf{Completo!}}$</p> 
 <p>spr_nswgam_cmn / Telas de Ajuda, Telas de Carregamento, Ícones do Menu : $\textcolor{red}{\textsf{Não Iniciado}}$</p>
 <p>spr_nswgam_custom.farc / Menu de Customização, Seleção de Módulos : $\textcolor{red}{\textsf{Não Iniciado}}$</p>
-<p>spr_nswgam_decoration / Menu de Figurinhas : $\textcolor{red}{\textsf{Não Iniciado}}$</p>
+<p>spr_nswgam_decoration / Menu de Figurinhas : $\textcolor{yellow}{\textsf{Em Progresso}}$</p>
 <p>spr_nswgam_gallery / Assets da Galeria & Rankings : $\textcolor{red}{\textsf{Não Iniciado}}$</p>
-<p>spr_nswgam_game / Modo Prática : $\textcolor{yellow}{\textsf{Pausado}}$</p>
+<p>spr_nswgam_game / Modo Prática : $\textcolor{lime}{\textsf{Completo!}}$</p>
 <p>spr_nswgam_menu / Menu Principal : $\textcolor{lime}{\textsf{Completo!}}$</p>
 <p>spr_nswgam_option / Menu de Opções : $\textcolor{lime}{\textsf{Completo!}}$</p>
 <p>spr_nswgam_playlist / Menu de Playlist : $\textcolor{red}{\textsf{Não Iniciado}}$</p>
