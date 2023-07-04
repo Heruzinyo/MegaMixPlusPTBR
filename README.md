@@ -24,9 +24,9 @@ Projeto de tradução do Mega Mix+</p>
 
 | **Seção** |        **Tradução**       |                                                      |       **Revisão**       |                                                      |
 |:---------:|:-------------------------:|:----------------------------------------------------:|:-----------------------:|:----------------------------------------------------:|
-|   Geral   |       401/1300 (30%)      | ![Progress](https://progress-bar.dev/30/?&width=150) |      350/1300 (26%)     | ![Progress](https://progress-bar.dev/26/?&width=150) |
-|  Imagens  |       373/1033 (36%)      | ![Progress](https://progress-bar.dev/36/?&width=150) |      350/1033 (33%)     | ![Progress](https://progress-bar.dev/33/?&width=150) |
-|   Texto   | 28/267 (Estimativa) (10%) | ![Progress](https://progress-bar.dev/10/?&width=150) | 0/267 (Estimativa) (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
+|   Geral   |       444/1300 (34%)      | ![Progress](https://progress-bar.dev/34/?&width=150) |      350/1300 (26%)     | ![Progress](https://progress-bar.dev/26/?&width=150) |
+|  Imagens  |       412/1033 (39%)      | ![Progress](https://progress-bar.dev/39/?&width=150) |      350/1033 (33%)     | ![Progress](https://progress-bar.dev/33/?&width=150) |
+|   Texto   | 32/267 (Estimativa) (11%) | ![Progress](https://progress-bar.dev/11/?&width=150) | 0/267 (Estimativa) (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
 
 <h1>Imagens</h1>
 
@@ -38,7 +38,7 @@ Projeto de tradução do Mega Mix+</p>
 |    spr_nswgam_custom    |  0/247 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/247 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
 |  spr_nswgam_decoration  |   0/41 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |   0/41 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
 |    spr_nswgam_gallery   |  0/104 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/104 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
-|     spr_nswgam_game     |  9/48 (18%)  |  ![Progress](https://progress-bar.dev/18/?&width=150) |   0/48 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|     spr_nswgam_game     | 48/48 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |   0/48 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
 |     spr_nswgam_menu     | 24/24 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 24/24 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |
 |    spr_nswgam_option    | 63/63 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 63/63 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |
 |   spr_nswgam_playlist   |   0/54 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |   0/54 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
@@ -51,7 +51,7 @@ Projeto de tradução do Mega Mix+</p>
 
 | **Arquivo** |        **Tradução**       |                                                      |       **Revisão**       |                                                     |
 |:-----------:|:-------------------------:|:----------------------------------------------------:|:-----------------------:|:---------------------------------------------------:|
-|  str_array  | 28/267 (Estimativa) (10%) | ![Progress](https://progress-bar.dev/10/?&width=150) | 0/267 (Estimativa) (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
+|  str_array  | 32/267 (Estimativa) (11%) | ![Progress](https://progress-bar.dev/11/?&width=150) | 0/267 (Estimativa) (0%) | ![Progress](https://progress-bar.dev/0/?&width=150) |
 
 <h1>Tutorial</h1>
 

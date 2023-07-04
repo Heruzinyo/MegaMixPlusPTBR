@@ -2,6 +2,10 @@
 170 = "LIGADO"
 171 = "DESLIGADO"
 
+# nswgam_game
+172 = "Ligado(a)" # Também é usado em outros lugares
+173 = "Desligado(a)" # Também é usado em outros lugares
+
 # nswgam_menu
 185 = "Play the rhythm game or watch music videos."
 186 = "Purchase and configure modules, hairstyles, and accessories, or change game &amp; control settings."
@@ -59,3 +63,5 @@
 
 # ?
 72 = "INDISPONÍVEL"
+180 = "Ligado" 
+181 = "Desligado"
