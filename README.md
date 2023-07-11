@@ -24,8 +24,8 @@ Projeto de tradução do Mega Mix+</p>
 
 | **Seção** |        **Tradução**       |                                                      |       **Revisão**       |                                                      |
 |:---------:|:-------------------------:|:----------------------------------------------------:|:-----------------------:|:----------------------------------------------------:|
-|   Geral   |       444/1300 (34%)      | ![Progress](https://progress-bar.dev/34/?&width=150) |      350/1300 (26%)     | ![Progress](https://progress-bar.dev/26/?&width=150) |
-|  Imagens  |       412/1033 (39%)      | ![Progress](https://progress-bar.dev/39/?&width=150) |      350/1033 (33%)     | ![Progress](https://progress-bar.dev/33/?&width=150) |
+|   Geral   |       485/1300 (37%)      | ![Progress](https://progress-bar.dev/37/?&width=150) |      350/1300 (26%)     | ![Progress](https://progress-bar.dev/26/?&width=150) |
+|  Imagens  |       453/1033 (43%)      | ![Progress](https://progress-bar.dev/43/?&width=150) |      350/1033 (33%)     | ![Progress](https://progress-bar.dev/33/?&width=150) |
 |   Texto   | 32/267 (Estimativa) (11%) | ![Progress](https://progress-bar.dev/11/?&width=150) | 0/267 (Estimativa) (0%) |  ![Progress](https://progress-bar.dev/0/?&width=150) |
 
 <h1>Imagens</h1>
@@ -36,7 +36,7 @@ Projeto de tradução do Mega Mix+</p>
 |      spr_nswgam_adv     |  7/7 (100%)  | ![Progress](https://progress-bar.dev/100/?&width=150) |  7/7 (100%)  | ![Progress](https://progress-bar.dev/100/?&width=150) |
 |      spr_nswgam_cmn     |  0/120 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/120 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
 |    spr_nswgam_custom    |  0/247 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/247 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
-|  spr_nswgam_decoration  |   0/41 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |   0/41 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
+|  spr_nswgam_decoration  | 41/41 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |   0/41 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
 |    spr_nswgam_gallery   |  0/104 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |  0/104 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
 |     spr_nswgam_game     | 48/48 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |   0/48 (0%)  |  ![Progress](https://progress-bar.dev/0/?&width=150)  |
 |     spr_nswgam_menu     | 24/24 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) | 24/24 (100%) | ![Progress](https://progress-bar.dev/100/?&width=150) |
@@ -66,12 +66,12 @@ Projeto de tradução do Mega Mix+</p>
 <p>spr_nswgam_adv / Tela de Início : $\textcolor{lime}{\textsf{Completo!}}$</p> 
 <p>spr_nswgam_cmn / Telas de Ajuda, Telas de Carregamento, Ícones do Menu : $\textcolor{red}{\textsf{Não Iniciado}}$</p>
 <p>spr_nswgam_custom.farc / Menu de Customização, Seleção de Módulos : $\textcolor{red}{\textsf{Não Iniciado}}$</p>
-<p>spr_nswgam_decoration / Menu de Figurinhas : $\textcolor{yellow}{\textsf{Em Progresso}}$</p>
+<p>spr_nswgam_decoration / Menu de Figurinhas : $\textcolor{lime}{\textsf{Completo!}}$</p>
 <p>spr_nswgam_gallery / Assets da Galeria & Rankings : $\textcolor{red}{\textsf{Não Iniciado}}$</p>
 <p>spr_nswgam_game / Modo Prática : $\textcolor{lime}{\textsf{Completo!}}$</p>
 <p>spr_nswgam_menu / Menu Principal : $\textcolor{lime}{\textsf{Completo!}}$</p>
 <p>spr_nswgam_option / Menu de Opções : $\textcolor{lime}{\textsf{Completo!}}$</p>
-<p>spr_nswgam_playlist / Menu de Playlist : $\textcolor{red}{\textsf{Não Iniciado}}$</p>
+<p>spr_nswgam_playlist / Menu de Playlist : $\textcolor{yellow}{\textsf{Em Progresso}}$</p>
 <p>spr_nswgam_result / Tela de Resultados : $\textcolor{lime}{\textsf{Completo!}}$</p>
 <p>spr_nswgam_songselector / Seleção de Música : $\textcolor{lime}{\textsf{Completo!}}$</p>
 <p>spr_nswgam_staff / Créditos : $\textcolor{cyan}{\textsf{Completo, Mas Não Modificado}}$</p>
