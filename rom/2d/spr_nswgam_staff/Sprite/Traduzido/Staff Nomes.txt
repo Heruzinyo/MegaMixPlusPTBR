@@ -116,7 +116,7 @@ QA Tester (Italian) = Testador de Garantia de Qualidade (Italiano)
 QA Tester (German) = Testador de Garantia de Qualidade (Alemão)
 QA Tester (Spanish) = Testador de Garantia de Qualidade (Espanhol)
 
-T-SHIRT DESING COORDINATORS = COORDENADORES DE DESIGN DE CAMISA
+T-SHIRT DESING COORDINATORS = COORDENADORES DE DESIGN DE CAMISETA
 
 CHIEF PRODUCER = PRODUTOR LÍDER
 EXECUTIVE PRODUCERS = PRODUTORES EXECUTIVOS
