@@ -1,0 +1,2933 @@
+enabled = true
+
+# Módulos da Miku
+[[translation]]
+old = "Meiko Style"
+new = "Estilo Meiko"
+
+[[translation]]
+old = "Rin Style"
+new = "Estilo Rin"
+
+[[translation]]
+old = "Space Channel 5"
+new = "Canal Espacial 5"
+
+[[translation]]
+old = "Space Channel 39"
+new = "Canal Espacial 39"
+
+[[translation]]
+old = "Gallia Squad 7"
+new = "Esquadrão Gallia 7"
+
+[[translation]]
+old = "P-Style PB" # Piano Black > Preto Piano / Todos os módulos da linha P-Style usam nomes de edições do PSP
+new = "Estilo-P Preto Piano"
+
+[[translation]]
+old = "P-Style CW" # Ceramic White > Branco Cerâmico
+new = "Estilo-P Branco Cerâmico"
+
+[[translation]]
+old = "P-Style IS" # Ice Silver > Prata Glacial
+new = "Estilo-P Prata Glacial"
+
+[[translation]]
+old = "P-Style RP" # Rose Pink > Rosa Pink
+new = "Estilo-P Rosa Pink"
+
+[[translation]]
+old = "P-Style LP" # Lavender Purple > Roxo Lavanda
+new = "Estilo-P Roxo Lavanda"
+
+[[translation]]
+old = "P-Style FB" # Felicia Blue > Azul Margarida
+new = "Estilo-P Azul Margarida"
+
+[[translation]]
+old = "P-Style MG" # Mint Green > Verde Menta
+new = "Estilo-P Verde Menta"
+
+[[translation]]
+old = "P-Style CG" # Champagne Gold > Ouro Champanhe
+new = "Estilo-P Ouro Champanhe"
+
+[[translation]]
+old = "Cheerleader"
+new = "Líder de Torcida"
+
+[[translation]]
+old = "Plug-In"
+new = "Módulo de Extensão"
+
+[[translation]]
+old = "Gothic"
+new = "Gótica"
+
+[[translation]]
+old = "Princess"
+new = "Princesa"
+
+[[translation]]
+old = "Kitty Cat"
+new = "Gatinha"
+
+[[translation]]
+old = "Sleepy Time"
+new = "Hora de Mimir"
+
+[[translation]]
+old = "Heart Hunter"
+new = "Caça Coração"
+
+[[translation]]
+old = "Dancer"
+new = "Dançarina"
+
+[[translation]]
+old = "Star"
+new = "Estrela"
+
+[[translation]]
+old = "Fairy"
+new = "Fada"
+
+[[translation]]
+old = "School"
+new = "Escola"
+
+[[translation]]
+old = "Snow"
+new = "Neve"
+
+[[translation]]
+old = "Arabian"
+new = "Arábica"
+
+[[translation]]
+old = "Chinese Debut"
+new = "Debut Chinês"
+
+[[translation]]
+old = "Magician"
+new = "Maga"
+
+[[translation]]
+old = "White Dress"
+new = "Vestido Branco"
+
+[[translation]]
+old = "Pirate"
+new = "Pirata"
+
+[[translation]]
+old = "Galaxy"
+new = "Galáxia"
+
+[[translation]]
+old = "Hatsune Miku Swimwear S"
+new = "Miku Roupa de Banho S"
+
+[[translation]]
+old = "Hatsune Miku Swimwear"
+new = "Miku Roupa de Banho"
+
+[[translation]]
+old = "White Gown"
+new = "Bata Branca"
+
+[[translation]]
+old = "Spiritual"
+new = "Espiritual"
+
+[[translation]]
+old = "Colorful Gumdrop"
+new = "Doce Colorido"
+
+[[translation]]
+old = "Hatsune Miku Butterfly"
+new = "Hatsune Miku Borboleta"
+
+[[translation]]
+old = "Hatsune Miku Christmas"
+new = "Hatsune Miku Natalina"
+
+[[translation]]
+old = "Vintage Dress"
+new = "Vestido Vintage"
+
+[[translation]]
+old = "Pink Pops"
+new = "Pops Rosa"
+
+[[translation]]
+old = "Pink Pops Alt."
+new = "Pops Rosa Alt."
+
+[[translation]]
+old = "Out and About"
+new = "Fora e Afim"
+
+[[translation]]
+old = "Little Red"
+new = "Chapéuzinho Vermelho"
+
+# Desativado
+# [[translation]]
+# old = "Yellow" # Conflita com o nome da música "Yellow"
+# new = ""
+
+[[translation]]
+old = "School Noble"
+new = "Nobre Escolar"
+
+[[translation]]
+old = "Powder"
+new = "Pólvora"
+
+[[translation]]
+old = "Spacey Nurse"
+new = "Enfermeira Espacial"
+
+[[translation]]
+old = "Hatsune Miku Cute"
+new = "Hatsune Miku Fofa"
+
+[[translation]]
+old = "Angel"
+new = "Anjo"
+
+[[translation]]
+old = "Hatsune Miku Swimwear B"
+new = "Miku Roupa de Banho B"
+
+[[translation]]
+old = "White Eve"
+new = "Véspera Branca"
+
+[[translation]]
+old = "Hello World."
+new = "Olá Mundo."
+
+[[translation]]
+old = "Fei-Yen Style"
+new = "Estilo Fei-Yen"
+
+# Desativado
+# [[translation]]
+# old = "Rolling Girl" # Conflita com o nome da música "Rolling Girl"
+# new = ""
+
+[[translation]]
+old = "Demons and the Dead"
+new = "Demônios e os Mortos"
+
+[[translation]]
+old = "Orbit"
+new = "Órbita"
+
+[[translation]]
+old = "Patchwork"
+new = "Remendo"
+
+[[translation]]
+old = "Sonic Style"
+new = "Estilo Sonic"
+
+[[translation]]
+old = "Tyrol"
+new = "Tirol"
+
+[[translation]]
+old = "Conflicted"
+new = "Problemática"
+
+[[translation]]
+old = "Shiny"
+new = "Brilhante"
+
+[[translation]]
+old = "Type 2020"
+new = "Tipo 2020"
+
+[[translation]]
+old = "Dreamer"
+new = "Sonhadora"
+
+[[translation]]
+old = "Hatsune Miku Mousou Girl"
+new = "Hatsune Miku Garota Mousou"
+
+[[translation]]
+old = "Deep Sky"
+new = "Céu Profundo"
+
+[[translation]]
+old = "Violet Butterfly"
+new = "Borboleta Violeta"
+
+[[translation]]
+old = "Memoria"
+new = "Memória"
+
+[[translation]]
+old = "Lab Girl"
+new = "Garota Cientista"
+
+[[translation]]
+old = "Innocent"
+new = "Inocente"
+
+[[translation]]
+old = "Dark Angel"
+new = "Anjo das Trevas"
+
+[[translation]]
+old = "Summer Memories"
+new = "Memórias de Verão"
+
+[[translation]]
+old = "Hatsune Miku Emerald"
+new = "Hatsune Miku Esmeralda"
+
+[[translation]]
+old = "Solitude"
+new = "Solidão"
+
+[[translation]]
+old = "Divine Goddess"
+new = "Deusa Divina"
+
+[[translation]]
+old = "FOnewearl Style"
+new = "Estilo FOnewearl"
+
+[[translation]]
+old = "Kitty Cape"
+new = "Capa de Gatinha"
+
+[[translation]]
+old = "Agitation"
+new = "Agitação"
+
+[[translation]]
+old = "Star Vocalist"
+new = "Vocalista Estrela"
+
+[[translation]]
+old = "Heartbeat"
+new = "Batimentos"
+
+[[translation]]
+old = "Pansy"
+new = "Amor-Perfeito"
+
+[[translation]]
+old = "Factory Tyrant"
+new = "Patroa da Fábrica"
+
+[[translation]]
+old = "Hello, Good Night."
+new = "Olá, Boa Noite."
+
+[[translation]]
+old = "Hatsune Miku Polka Dot Bikini"
+new = "Hatsune Miku Biquíni de Bolinhas"
+
+[[translation]]
+old = "Hatsune Miku Racing Swimsuit"
+new = "Miku Roupa de Banho de Corrida"
+
+[[translation]]
+old = "Hatsune Miku Yukata Style"
+new = "Hatsune Miku Estilo Yukata"
+
+[[translation]]
+old = "Running Miku"
+new = "Miku Corredora"
+
+[[translation]]
+old = "Ribbon Girl"
+new = "Garota Laço"
+
+# Desativado
+# [[translation]]
+# old = "Deep Sea Girl" # Conflita com o nome da música "Deep Sea Girl"
+# new = ""
+
+[[translation]]
+old = "Honey Whip"
+new = "Chicoteadora de Amores"
+
+[[translation]]
+old = "Ichi-no-Sakura Blossom"
+new = "Ichi-no-Sakura Florescer"
+
+[[translation]]
+old = "Rin-chan's #1 Fan"
+new = "Fã Nº1 da Rin-chan"
+
+[[translation]]
+old = "Linkage"
+new = "Vínculo"
+
+[[translation]]
+old = "Star Vocalist Alt."
+new = "Vocalista Estrela Alt."
+
+[[translation]]
+old = "Cabin Attendant Hatsune Miku"
+new = "Assistente de Cabine Hatsune Miku"
+
+[[translation]]
+old = "Cheerful Miku"
+new = "Miku de Torcida"
+
+[[translation]]
+old = "Cheerful Miku Alt."
+new = "Miku de Torcida Alt."
+
+[[translation]]
+old = "Avant-garde"
+new = "Vanguarda"
+
+[[translation]]
+old = "Rainbow Lines"
+new = "Linhas Arco-Íris"
+
+[[translation]]
+old = "Breathe With You"
+new = "Respirar Com Você"
+
+[[translation]]
+old = "Hana-Kotoba"
+new = "Hana-Kotoba (Língua das Flores)"
+
+[[translation]]
+old = "Kasha"
+new = "Kasha (Luxuosa)"
+
+[[translation]]
+old = "Regret"
+new = "Arrependida"
+
+[[translation]]
+old = "Marionette"
+new = "Marionete"
+
+[[translation]]
+old = "Liar"
+new = "Mentirosa"
+
+[[translation]]
+old = "Moonlight Butterfly"
+new = "Borboleta do Luar"
+
+[[translation]]
+old = "Siren"
+new = "Sirene"
+
+[[translation]]
+old = "Meteorite"
+new = "Meteorito"
+
+[[translation]]
+old = "Supreme"
+new = "Suprema"
+
+[[translation]]
+old = "Orange Blossom"
+new = "Flor de Laranjeira"
+
+[[translation]]
+old = "Urban Pop"
+new = "Pop Urbano"
+
+[[translation]]
+old = "Puffy Pastels"
+new = "Pastéis Fofinhos"
+
+[[translation]]
+old = "Bunny Ears Hoodie"
+new = "Moletom de Coelinha"
+
+[[translation]]
+old = "Hatsune Miku Swimwear Tan"
+new = "Miku Roupa de Banho Bronzeada"
+
+[[translation]]
+old = "Out of the Gravity"
+new = "Fora de Gravidade"
+
+[[translation]]
+old = "Interviewer Miku"
+new = "Entrevistadora Miku"
+
+[[translation]]
+old = "Sweet Pumpkin"
+new = "Abóbora Doce"
+
+[[translation]]
+old = "Ichi-no-Sakura White Blossom"
+new = "Ichi-no-Sakura Florescer Branco"
+
+[[translation]]
+old = "Zany Hatsune"
+new = "Hatsune Miluka"
+
+[[translation]]
+old = "Gradation Resort"
+new = "Gradação do Resort"
+
+[[translation]]
+old = "P4: Dancing All Night Miku"
+new = "Miku do P4: Dancing All Night"
+
+[[translation]]
+old = "PIANO＊GIRL"
+new = "GAROTA＊PIANISTA"
+
+[[translation]]
+old = "Trip the Light Fantastic"
+new = "Viagem à Luz Fantástica"
+
+[[translation]]
+old = "Princess Blanche"
+new = "Princesa Blanche"
+
+[[translation]]
+old = "March Hare"
+new = "Lebre de Março"
+
+# Desativado
+# [[translation]]
+# old = "Ageage Again" # Conflita com o nome da música "Ageage Again"
+# new = ""
+
+[[translation]]
+old = "Etoile"
+new = "Étoile"
+
+[[translation]]
+old = "Farewell"
+new = "Despedida"
+
+[[translation]]
+old = "Pajama Party Miku"
+new = "Miku Festa do Pijama"
+
+[[translation]]
+old = "Phantom Thief Miku"
+new = "Miku Ladra Fantasma"
+
+[[translation]]
+old = "Conductor Nightingale"
+new = "Condutora Rouxinol"
+
+[[translation]]
+old = "MiCrystal☆"
+new = "MiKristal☆"
+
+[[translation]]
+old = "My Dear Bunny"
+new = "Minha Querida Coelhinha"
+
+[[translation]]
+old = "Ghost"
+new = "Fantasma"
+
+[[translation]]
+old = "Celebration"
+new = "Celebração"
+
+# Desativado
+# [[translation]]
+# old = "Catch the Wave" # Conflita com o nome da música "Catch the Wave"
+# new = ""
+
+[[translation]]
+old = "White T-Shirt Miku"
+new = "Miku Camiseta Branca"
+
+# Cabelos da Miku
+[[translation]]
+old = "Hatsune Miku Hair"
+new = "Cabelo de Hatsune Miku"
+
+[[translation]]
+old = "Space Channel 39 Hair"
+new = "Cabelo de Canal Espacial 39"
+
+[[translation]]
+old = "Cheerleader Hair"
+new = "Cabelo de Líder de Torcida"
+
+[[translation]]
+old = "White Dress Hair"
+new = "Cabelo de Vestido Branco"
+
+[[translation]]
+old = "Heart Hunter Hair"
+new = "Cabelo de Caça Coração"
+
+[[translation]]
+old = "Vocal Hair"
+new = "Cabelo de Vocal"
+
+[[translation]]
+old = "Fairy Hair"
+new = "Cabelo de Fada"
+
+[[translation]]
+old = "Magician Hair"
+new = "Cabelo de Maga"
+
+[[translation]]
+old = "Hatsune Miku Append Hair"
+new = "Cabelo de Hatsune Miku Append"
+
+[[translation]]
+old = "Spacey Nurse Hair"
+new = "Cabelo de Enfermeira Espacial"
+
+[[translation]]
+old = "Saihate Miku Hair"
+new = "Cabelo de Saihate Miku"
+
+[[translation]]
+old = "Jersey Hair"
+new = "Cabelo de Jersey"
+
+[[translation]]
+old = "White Gown Hair"
+new = "Cabelo de Bata Branca"
+
+[[translation]]
+old = "Pink Pops Hair"
+new = "Cabelo de Pops Rosa"
+
+[[translation]]
+old = "Pink Pops Alt. Hair"
+new = "Cabelo de Pops Rosa Alt."
+
+[[translation]]
+old = "Angel Hair"
+new = "Cabelo de Anjo"
+
+[[translation]]
+old = "Colorful Gumdrop Hair"
+new = "Cabelo de Doce Colorido"
+
+# Original Desativado
+# [[translation]]
+# old = "Yellow Hair"
+# new = ""
+
+[[translation]]
+old = "∞ Hair"
+new = "Cabelo de ∞"
+
+[[translation]]
+old = "Hatsune Miku Swimwear B Hair"
+new = "Cabelo de Miku Roupa de Banho B"
+
+[[translation]]
+old = "Snow Miku 2010 Hair"
+new = "Cabelo de Snow Miku 2010"
+
+[[translation]]
+old = "Snow Miku 2012 Hair"
+new = "Cabelo de Snow Miku 2012"
+
+[[translation]]
+old = "Demons and the Dead Hair"
+new = "Cabelo de Demônios e os Mortos"
+
+[[translation]]
+old = "Conflicted Hair"
+new = "Cabelo de Problemática"
+
+[[translation]]
+old = "Shiny Hair"
+new = "Cabelo de Brilhante"
+
+[[translation]]
+old = "Sakura Miku Hair"
+new = "Cabelo de Sakura Miku"
+
+[[translation]]
+old = "Patchwork Hair"
+new = "Cabelo de Remendo"
+
+[[translation]]
+old = "Tyrol Hair"
+new = "Cabelo de Tirol"
+
+[[translation]]
+old = "Hello World. Hair"
+new = "Cabelo de Olá Mundo."
+
+[[translation]]
+old = "Type 2020 Hair"
+new = "Cabelo de Tipo 2020"
+
+[[translation]]
+old = "Orbit Hair"
+new = "Cabelo de Órbita"
+
+[[translation]]
+old = "Racing Miku 2010 Ver. Hair"
+new = "Cabelo de Racing Miku 2010 Ver"
+
+[[translation]]
+old = "Racing Miku 2011 Ver. Hair"
+new = "Cabelo de Racing Miku 2011 Ver."
+
+# Original Desativado
+# [[translation]]
+# old = "Rolling Girl Hair"
+# new = ""
+
+[[translation]]
+old = "White Eve Hair"
+new = "Cabelo de Véspera Branca"
+
+[[translation]]
+old = "Fei-Yen Hair"
+new = "Cabelo de Fei-Yen"
+
+[[translation]]
+old = "Snow Miku 2013 Hair"
+new = "Cabelo de Snow Miku 2013"
+
+[[translation]]
+old = "Dreamer Hair"
+new = "Cabelo de Sonhadora"
+
+[[translation]]
+old = "Ribbon Girl Hair"
+new = "Cabelo de Garota Laço"
+
+[[translation]]
+old = "Snow Miku 2013 Alt. Hair"
+new = "Cabelo de Snow Miku 2013 Alt."
+
+[[translation]]
+old = "Running Miku Hair"
+new = "Cabelo de Miku Corredora"
+
+[[translation]]
+old = "Hatsune Miku Polka Dot Bikini Hair"
+new = "Cabelo de Hatsune Miku Biquíni de Bolinhas"
+
+[[translation]]
+old = "Hatsune Miku Racing Swimsuit Hair"
+new = "Cabelo de Miku Roupa de Banho de Corrida"
+
+[[translation]]
+old = "Hatsune Miku Yukata Style Hair"
+new = "Cabelo de Hatsune Miku Estilo Yukata"
+
+[[translation]]
+old = "Racing Miku 2012 Ver. Hair"
+new = "Cabelo de Racing Miku 2012 Ver."
+
+# Original Desativado
+# [[translation]]
+# old = "Deep Sea Girl Hair"
+# new = ""
+
+[[translation]]
+old = "Pierretta Hair"
+new = "Cabelo de Pierretta"
+
+[[translation]]
+old = "Agitation Hair"
+new = "Cabelo de Agitação"
+
+[[translation]]
+old = "Linkage Hair"
+new = "Cabelo de Vínculo"
+
+[[translation]]
+old = "Pansy Hair"
+new = "Cabelo de Amor-Perfeito"
+
+[[translation]]
+old = "Star Vocalist Hair"
+new = "Cabelo de Vocalista Estrela"
+
+[[translation]]
+old = "Deep Sky Hair"
+new = "Cabelo de Céu Profundo"
+
+[[translation]]
+old = "Violet Butterfly Hair"
+new = "Cabelo de Borboleta Violeta"
+
+[[translation]]
+old = "Memoria Hair"
+new = "Cabelo de Memória"
+
+[[translation]]
+old = "Lab Girl Hair"
+new = "Cabelo de Garota Cientista"
+
+[[translation]]
+old = "Innocent Hair"
+new = "Cabelo de Inocente"
+
+[[translation]]
+old = "Dark Angel Hair"
+new = "Cabelo de Anjo das Trevas"
+
+[[translation]]
+old = "Summer Memories Hair"
+new = "Cabelo de Memórias de Verão"
+
+[[translation]]
+old = "Hello, Good Night. Hair"
+new = "Cabelo de Olá, Boa Noite."
+
+[[translation]]
+old = "Hatsune Miku Emerald Hair"
+new = "Cabelo de Hatsune Miku Esmeralda"
+
+[[translation]]
+old = "Solitude Hair"
+new = "Cabelo de Solidão"
+
+[[translation]]
+old = "Divine Goddess Hair"
+new = "Cabelo de Deusa Divina"
+
+[[translation]]
+old = "FOnewearl Style Hair"
+new = "Cabelo de Estilo FOnewearl"
+
+[[translation]]
+old = "Kitty Cape Hair"
+new = "Cabelo de Capa de Gatinha"
+
+[[translation]]
+old = "Heartbeat Hair"
+new = "Cabelo de Batimentos"
+
+[[translation]]
+old = "Factory Tyrant Hair"
+new = "Cabelo de Patroa da Fábrica"
+
+[[translation]]
+old = "Honey Whip Hair"
+new = "Cabelo de Chicoteadora de Amores"
+
+[[translation]]
+old = "Ichi-no-Sakura Blossom Hair"
+new = "Cabelo de Ichi-no-Sakura Florescer"
+
+[[translation]]
+old = "Ichi-no-Sakura White Blossom Hair"
+new = "Cabelo de Ichi-no-Sakura Florescer Branco"
+
+[[translation]]
+old = "Rin-chan's #1 Fan Hair"
+new = "Cabelo de Fã Nº1 da Rin-chan"
+
+[[translation]]
+old = "Star Vocalist Alt. Hair"
+new = "Cabelo de Vocalista Estrela Alt."
+
+[[translation]]
+old = "Magical Mirai Hair"
+new = "Cabelo de Magical Mirai"
+
+[[translation]]
+old = "Snow Miku 2014 Hair"
+new = "Cabelo de Snow Miku 2014"
+
+[[translation]]
+old = "Cheerful Miku Hair"
+new = "Cabelo de Miku de Torcida"
+
+[[translation]]
+old = "Cheerful Miku Alt. Hair"
+new = "Cabelo de Miku de Torcida Alt."
+
+[[translation]]
+old = "Cabin Attendant Hatsune Miku Hair"
+new = "Cabelo de Assistente de Cabine Hatsune Miku"
+
+[[translation]]
+old = "Out of the Gravity Hair"
+new = "Cabelo de Fora de Gravidade"
+
+[[translation]]
+old = "Hatsune Miku V3 Hair"
+new = "Cabelo de Hatsune Miku V3"
+
+[[translation]]
+old = "Interviewer Miku Hair"
+new = "Cabelo de Entrevistadora Miku"
+
+[[translation]]
+old = "Snow Miku 2015 Hair"
+new = "Cabelo de Snow Miku 2015"
+
+[[translation]]
+old = "Sweet Pumpkin Hair"
+new = "Cabelo de Abóbora Doce"
+
+[[translation]]
+old = "Meteorite Hair"
+new = "Cabelo de Meteorito"
+
+[[translation]]
+old = "Dimensional Hair"
+new = "Cabelo de Dimensional"
+
+[[translation]]
+old = "Chat Noir Hair"
+new = "Cabelo de Chat Noir"
+
+[[translation]]
+old = "Chat Noir Alt. Hair"
+new = "Cabelo de Chat Noir Alt."
+
+[[translation]]
+old = "Hana-Kotoba Hair"
+new = "Cabelo de Hana-Kotoba (Língua das Flores)"
+
+[[translation]]
+old = "Kasha Hair"
+new = "Cabelo de Kasha (Luxuosa)"
+
+[[translation]]
+old = "Regret Hair"
+new = "Cabelo de Arrependida"
+
+[[translation]]
+old = "Marionette Hair"
+new = "Cabelo de Marionete"
+
+[[translation]]
+old = "Siren Hair"
+new = "Cabelo de Sirene"
+
+[[translation]]
+old = "Moonlight Butterfly Hair"
+new = "Cabelo de Borboleta do Luar"
+
+[[translation]]
+old = "Avant-garde Hair"
+new = "Cabelo de Vanguarda"
+
+[[translation]]
+old = "Liar Hair"
+new = "Cabelo de Mentirosa"
+
+[[translation]]
+old = "Breathe With You Hair"
+new = "Cabelo de Respirar Com Você" 
+
+[[translation]]
+old = "Rainbow Lines Hair"
+new = "Cabelo de Linhas Arco-Íris"
+
+[[translation]]
+old = "Orange Blossom Hair"
+new = "Cabelo de Flor de Laranjeira"
+
+[[translation]]
+old = "ARIFURE Miku Hair"
+new = "Cabelo de ARIFURE Miku"
+
+# Original Desativado
+# [[translation]]
+# old = "Ageage Again Hair"
+# new = ""
+
+[[translation]]
+old = "Zany Hatsune Hair"
+new = "Cabelo de Hatsune Miluka"
+
+[[translation]]
+old = "Gradation Resort Hair"
+new = "Cabelo de Gradação do Resort"
+
+[[translation]]
+old = "PIANO＊GIRL Hair"
+new = "Cabelo de GAROTA＊PIANISTA"
+
+[[translation]]
+old = "P4: Dancing All Night Miku Hair"
+new = "Cabelo de Miku do P4: Dancing All Night"
+
+[[translation]]
+old = "Meiko Style Hair"
+new = "Cabelo de Estilo Meiko"
+
+[[translation]]
+old = "Rin Style Hair"
+new = "Cabelo de Estilo Rin"
+
+[[translation]]
+old = "Space Channel 5 Hair"
+new = "Cabelo de Canal Espacial 5"
+
+[[translation]]
+old = "Gallia Squad 7 Hair"
+new = "Cabelo de Esquadrão Gallia 7"
+
+[[translation]]
+old = "Plug-In Hair"
+new = "Cabelo de Módulo de Extensão"
+
+[[translation]]
+old = "Gothic Hair"
+new = "Cabelo de Gótica"
+
+[[translation]]
+old = "Princess Hair"
+new = "Cabelo de Princesa"
+
+[[translation]]
+old = "Miko Hair"
+new = "Cabelo de Miko"
+
+[[translation]]
+old = "Kitty Cat Hair"
+new = "Cabelo de Gatinha"
+
+[[translation]]
+old = "Sleepy Time Hair"
+new = "Cabelo de Hora de Mimir"
+
+[[translation]]
+old = "Punk Hair"
+new = "Cabelo de Punk"
+
+[[translation]]
+old = "Dancer Hair"
+new = "Cabelo de Dançarina"
+
+[[translation]]
+old = "Star Hair"
+new = "Cabelo de Estrela"
+
+[[translation]]
+old = "School Hair"
+new = "Cabelo de Escola"
+
+[[translation]]
+old = "Snow Hair"
+new = "Cabelo de Neve"
+
+[[translation]]
+old = "Arabian Hair"
+new = "Cabelo de Arábica"
+
+[[translation]]
+old = "Miyabi Hair"
+new = "Cabelo de Miyabi"
+
+[[translation]]
+old = "Chinese Debut Hair"
+new = "Cabelo de Debut Chinês"
+
+[[translation]]
+old = "Pirate Hair"
+new = "Cabelo de Pirata"
+
+[[translation]]
+old = "VN02 Hair"
+new = "Cabelo de VN02"
+
+[[translation]]
+old = "Galaxy Hair"
+new = "Cabelo de Galáxia"
+
+[[translation]]
+old = "Hatsune Miku Swimwear S Hair"
+new = "Cabelo de Miku Roupa de Banho S"
+
+[[translation]]
+old = "Hatsune Miku Swimwear Hair"
+new = "Cabelo de Miku Roupa de Banho"
+
+[[translation]]
+old = "Ha2ne Miku Hair"
+new = "Cabelo de Ha2ne Miku"
+
+[[translation]]
+old = "P-Style PB Hair"
+new = "Cabelo de Estilo-P Preto Piano"
+
+[[translation]]
+old = "P-Style CW Hair"
+new = "Cabelo de Estilo-P Branco Cerâmico"
+
+[[translation]]
+old = "P-Style IS Hair"
+new = "Cabelo de Estilo-P Prata Glacial"
+
+[[translation]]
+old = "P-Style RP Hair"
+new = "Cabelo de Estilo-P Rosa Pink"
+
+[[translation]]
+old = "P-Style LP Hair"
+new = "Cabelo de Estilo-P Roxo Lavanda"
+
+[[translation]]
+old = "P-Style FB Hair"
+new = "Cabelo de Estilo-P Azul Margarida"
+
+[[translation]]
+old = "P-Style MG Hair"
+new = "Cabelo de Estilo-P Verde Menta"
+
+[[translation]]
+old = "P-Style CG Hair"
+new = "Cabelo de Estilo-P Ouro Champanhe"
+
+[[translation]]
+old = "Aile d'Ange Hair"
+new = "Cabelo de Aile d'Ange"
+
+[[translation]]
+old = "School Noble Hair"
+new = "Cabelo de Nobre Escolar"
+
+[[translation]]
+old = "Vintage Dress Hair"
+new = "Cabelo de Vestido Vintage"
+
+[[translation]]
+old = "Natural Hair"
+new = "Cabelo de Natural"
+
+[[translation]]
+old = "Spiritual Hair"
+new = "Cabelo de Espiritual"
+
+[[translation]]
+old = "Out and About Hair"
+new = "Cabelo de Fora e Afim"
+
+[[translation]]
+old = "Saihate Miku Hair"
+new = "Cabelo de Saihate Miku"
+
+[[translation]]
+old = "Powder Hair"
+new = "Cabelo de Pólvora"
+
+[[translation]]
+old = "Hatsune Miku Butterfly Hair"
+new = "Cabelo de Hatsune Miku Borboleta"
+
+[[translation]]
+old = "Hatsune Miku Cute Hair"
+new = "Cabelo de Hatsune Miku Fofa"
+
+[[translation]]
+old = "Hatsune Miku Christmas Hair"
+new = "Cabelo de Hatsune Miku Natalina"
+
+[[translation]]
+old = "Snow Miku 2011 Hair"
+new = "Cabelo de Snow Miku 2011"
+
+[[translation]]
+old = "Americana Hair"
+new = "Cabelo de Americana"
+
+[[translation]]
+old = "Hatsune Miku Mousou Girl Hair"
+new = "Cabelo de Hatsune Miku Garota Mousou"
+
+[[translation]]
+old = "Urban Pop Hair"
+new = "Cabelo de Pop Urbano"
+
+[[translation]]
+old = "Puffy Pastels Hair"
+new = "Cabelo de Pastéis Fofinhos"
+
+[[translation]]
+old = "Snow Miku 2016 Hair"
+new = "Cabelo de Snow Miku 2016"
+
+[[translation]]
+old = "Supreme Hair"
+new = "Cabelo de Suprema"
+
+[[translation]]
+old = "Trip The Light Fantastic Hair"
+new = "Cabelo de Viagem à Luz Fantástica"
+
+[[translation]]
+old = "Princess Blanche Hair"
+new = "Cabelo de Princesa Blanche"
+
+[[translation]]
+old = "MiCrystal☆ Hair"
+new = "Cabelo de MiKristal☆"
+
+[[translation]]
+old = "Rosa Bianca Hair"
+new = "Cabelo de Rosa Bianca"
+
+[[translation]]
+old = "Hatsune Miku Swimwear Tan Hair"
+new = "Cabelo de Miku Roupa de Banho Bronzeada"
+
+[[translation]]
+old = "March Hare Hair"
+new = "Cabelo de Lebre de Março"
+
+[[translation]]
+old = "Etoile Hair"
+new = "Cabelo de Étoile"
+
+[[translation]]
+old = "Farewell Hair"
+new = "Cabelo de Despedida"
+
+[[translation]]
+old = "My Dear Bunny Hair"
+new = "Cabelo de Minha Querida Coelhinha"
+
+[[translation]]
+old = "Rosa Notte Hair"
+new = "Cabelo de Rosa Notte"
+
+[[translation]]
+old = "Pajama Party Miku Hair"
+new = "Cabelo de Miku Festa do Pijama"
+
+[[translation]]
+old = "Phantom Thief Miku Hair"
+new = "Cabelo de Miku Ladra Fantasma"
+
+[[translation]]
+old = "Conductor Nightingale Hair"
+new = "Cabelo de Condutora Rouxinol"
+
+[[translation]]
+old = "Snow Miku 2017 Hair"
+new = "Cabelo de Snow Miku 2017"
+
+[[translation]]
+old = "Ghost Hair"
+new = "Cabelo de Fantasma"
+
+[[translation]]
+old = "Celebration Hair"
+new = "Cabelo de Celebração"
+
+[[translation]]
+old = "Snow Miku 2018 Alt. Hair"
+new = "Cabelo de Snow Miku 2018 Alt."
+
+[[translation]]
+old = "Snow Miku 2019 Hair"
+new = "Cabelo de Snow Miku 2019"
+
+[[translation]]
+old = "Snow Miku 2018 Hair"
+new = "Cabelo de Snow Miku 2018"
+
+# Original Desativado
+# [[translation]]
+# old = "Catch the Wave Hair"
+# new = ""
+
+# Módulos da Rin
+[[translation]]
+old = "Kagamine Rin Swimwear"
+new = "Rin Roupa de Banho"
+
+[[translation]]
+old = "Cheerful Candy"
+new = "Doce Alegre"
+
+[[translation]]
+old = "Kagamine Rin Christmas"
+new = "Kagamine Rin Natalina"
+
+[[translation]]
+old = "Reactor"
+new = "Reator"
+
+[[translation]]
+old = "Asymmetric R"
+new = "Assimétrico R"
+
+[[translation]]
+old = "RoF Style"
+new = "Estilo RoF"
+
+[[translation]]
+old = "Kagamine Rin Cute"
+new = "Kagamine Rin Fofa"
+
+[[translation]]
+old = "Kagamine Rin Swimwear T"
+new = "Rin Roupa de Banho T"
+
+[[translation]]
+old = "Kagamine Rin School Outfit"
+new = "Kagamine Rin Uniforme"
+
+[[translation]]
+old = "Nameless No. 1"
+new = "Desconhecida Nº1"
+
+[[translation]]
+old = "Black Star"
+new = "Estrela Escura"
+
+[[translation]]
+old = "Heat Haze"
+new = "Neblina de Calor"
+
+[[translation]]
+old = "Raspberry"
+new = "Framboesa"
+
+[[translation]]
+old = "Raspberry Fox"
+new = "Raposa Framboesa"
+
+[[translation]]
+old = "Kagamine Rin Mousou Girl"
+new = "Kagamine Rin Garota Mousou"
+
+[[translation]]
+old = "Melancholy"
+new = "Melancolia"
+
+[[translation]]
+old = "Transmitter"
+new = "Transmissora"
+
+[[translation]]
+old = "Sakura Moon"
+new = "Lua de Sakura"
+
+[[translation]]
+old = "Kagamine Rin Ame"
+new = "Kagamine Rin Ame (Chuva)"
+
+[[translation]]
+old = "Kagamine Rin Striped Bikini"
+new = "Kagamine Rin Biquíni Listrado"
+
+[[translation]]
+old = "Kagamine Rin School Swimwear"
+new = "Rin Roupa de Banho Escolar"
+
+[[translation]]
+old = "Kagamine Rin Yukata Style"
+new = "Kagamine Rin Estilo Yukata"
+
+[[translation]]
+old = "Apprentice Magician"
+new = "Maga Aprendiz"
+
+[[translation]]
+old = "Stylish Energy R"
+new = "Energia Estilosa R"
+
+[[translation]]
+old = "Trad School"
+new = "Escola Tradicional"
+
+[[translation]]
+old = "Kagamine Rin Yukata Style Alt."
+new = "Kagamine Rin Estilo Yukata Alt."
+
+[[translation]]
+old = "Scissors"
+new = "Tesoura"
+
+[[translation]]
+old = "Ni-no-Sakura Butterfly"
+new = "Ni-no-Sakura Borboleta"
+
+[[translation]]
+old = "Kagamine Rin Future Style"
+new = "Kagamine Rin Estilo Futuro"
+
+[[translation]]
+old = "Cabin Attendant Kagamine Rin"
+new = "Assistente de Cabine Kagamine Rin"
+
+[[translation]]
+old = "Cheerful Rin"
+new = "Rin de Torcida"
+
+[[translation]]
+old = "Dreaming Panda"
+new = "Panda Sonhadora"
+
+[[translation]]
+old = "Faker"
+new = "Falsa"
+
+[[translation]]
+old = "Sunflower"
+new = "Girassol"
+
+[[translation]]
+old = "Fairy Dress"
+new = "Vestido de Fada"
+
+[[translation]]
+old = "Alparka Hoodie R"
+new = "Moletom Alparka R"
+
+[[translation]]
+old = "Kagamine Rin Swimwear Tan"
+new = "Rin Roupa de Banho Bronzeada"
+
+[[translation]]
+old = "Magic Chef"
+new = "Chefe Mágica"
+
+[[translation]]
+old = "Miracle Star Resort"
+new = "Estrela Milagrosa do Resort"
+
+[[translation]]
+old = "Poppin Delight"
+new = "Encanto Cintilante"
+
+[[translation]]
+old = "Adolescence Princess"
+new = "Princesa Adolescente"
+
+[[translation]]
+old = "Pajama Party Rin"
+new = "Rin Festa do Pijama"
+
+[[translation]]
+old = "Phantom Thief Rin"
+new = "Rin Ladra Fantasma"
+
+[[translation]]
+old = "Conductor Canary"
+new = "Condutora Canário"
+
+[[translation]]
+old = "Sunflower Alt."
+new = "Girassol Alt."
+
+[[translation]]
+old = "White T-Shirt Rin"
+new = "Rin Camiseta Branca"
+
+# Cabelos da Rin
+[[translation]]
+old = "Kagamine Rin Hair"
+new = "Cabelo de Kagamine Rin"
+
+[[translation]]
+old = "Reactor Hair"
+new = "Cabelo de Reator"
+
+[[translation]]
+old = "Cheerful Candy Hair"
+new = "Cabelo de Doce Alegre"
+
+[[translation]]
+old = "Kagamine Rin Swimwear T Hair"
+new = "Cabelo de Rin Roupa de Banho T"
+
+[[translation]]
+old = "Asymmetric R Hair"
+new = "Cabelo de Assimétrico R"
+
+[[translation]]
+old = "Kagamine Rin Cute Hair"
+new = "Cabelo de Kagamine Rin Fofa"
+
+[[translation]]
+old = "Kagamine Rin School Outfit Hair"
+new = "Cabelo de Kagamine Rin Uniforme"
+
+[[translation]]
+old = "Kagamine Rin Append Hair"
+new = "Cabelo de Kagamine Rin Append"
+
+[[translation]]
+old = "Raspberry Hair"
+new = "Cabelo de Framboesa"
+
+[[translation]]
+old = "Black Star Hair"
+new = "Cabelo de Estrela Escura"
+
+[[translation]]
+old = "Heat Haze Hair"
+new = "Cabelo de Neblina de Calor"
+
+[[translation]]
+old = "Raspberry Fox Hair"
+new = "Cabelo de Raposa Framboesa"
+
+[[translation]]
+old = "Nameless No. 1 Hair"
+new = "Cabelo de Desconhecida Nº1"
+
+[[translation]]
+old = "Kagamine Rin Mousou Girl Hair"
+new = "Cabelo de Kagamine Rin Garota Mousou"
+
+[[translation]]
+old = "Trad School Hair"
+new = "Cabelo de Escola Tradicional"
+
+[[translation]]
+old = "Kagamine Rin Striped Bikini Hair"
+new = "Cabelo de Kagamine Rin Biquíni Listrado"
+
+[[translation]]
+old = "Kagamine Rin School Swimwear Hair"
+new = "Cabelo de Rin Roupa de Banho Escolar"
+
+[[translation]]
+old = "Kagamine Rin Yukata Style Hair"
+new = "Cabelo de Kagamine Rin Estilo Yukata"
+
+[[translation]]
+old = "Kagamine Rin Yukata Style Alt. Hair"
+new = "Cabelo de Kagamine Rin Estilo Yukata Alt."
+
+[[translation]]
+old = "Apprentice Magician Hair"
+new = "Cabelo de Maga Aprendiz"
+
+[[translation]]
+old = "Sakura Moon Hair"
+new = "Cabelo de Lua de Sakura"
+
+[[translation]]
+old = "Melancholy Hair"
+new = "Cabelo de Melancolia"
+
+[[translation]]
+old = "Transmitter Hair"
+new = "Cabelo de Transmissora"
+
+[[translation]]
+old = "Kagamine Rin Ame Hair"
+new = "Cabelo de Kagamine Rin Ame (Chuva)"
+
+[[translation]]
+old = "Ni-no-Sakura Butterfly Hair"
+new = "Cabelo de Ni-no-Sakura Borboleta"
+
+[[translation]]
+old = "Kagamine Rin Future Style Hair"
+new = "Cabelo de Kagamine Rin Estilo Futuro"
+
+[[translation]]
+old = "Cheerful Rin Hair"
+new = "Cabelo de Rin de Torcida"
+
+[[translation]]
+old = "Cabin Attendant Kagamine Rin Hair"
+new = "Cabelo de Assistente de Cabine Kagamine Rin"
+
+[[translation]]
+old = "Dreaming Panda Hair"
+new = "Cabelo de Panda Sonhadora"
+
+[[translation]]
+old = "Sunflower Hair"
+new = "Cabelo de Girassol"
+
+[[translation]]
+old = "Faker Hair"
+new = "Cabelo de Falsa"
+
+[[translation]]
+old = "Fairy Dress Hair"
+new = "Cabelo de Vestido de Fada"
+
+[[translation]]
+old = "Magic Chef Hair"
+new = "Cabelo de Chefe Mágica"
+
+[[translation]]
+old = "Miracle Star Resort Hair"
+new = "Cabelo de Estrela Milagrosa do Resort"
+
+[[translation]]
+old = "Kagamine Rin Swimwear Hair"
+new = "Cabelo de Rin Roupa de Banho"
+
+[[translation]]
+old = "RoF Style Hair"
+new = "Cabelo de Estilo RoF"
+
+[[translation]]
+old = "Kagamine Rin Christmas Hair"
+new = "Cabelo de Kagamine Rin Natalina"
+
+[[translation]]
+old = "Racing Rin 2010 Ver. Hair"
+new = "Cabelo de Racing Rin 2010 Ver."
+
+[[translation]]
+old = "Soleil Hair"
+new = "Cabelo de Soleil"
+
+[[translation]]
+old = "Sunflower Alt. Hair"
+new = "Cabelo de Girassol Alt."
+
+[[translation]]
+old = "Poppin Delight Hair"
+new = "Cabelo de Encanto Cintilante"
+
+[[translation]]
+old = "Adolescence Princess Hair"
+new = "Cabelo de Princesa Adolescente"
+
+[[translation]]
+old = "Kagamine Rin Swimwear Tan Hair"
+new = "Cabelo de Rin Roupa de Banho Bronzeada"
+
+[[translation]]
+old = "Amasode Hair"
+new = "Cabelo de Amasode"
+
+[[translation]]
+old = "Pajama Party Rin Hair"
+new = "Cabelo de Rin Festa do Pijama"
+
+[[translation]]
+old = "Phantom Thief Rin Hair"
+new = "Cabelo de Rin Ladra Fantasma"
+
+[[translation]]
+old = "Conductor Canary Hair"
+new = "Cabelo de Condutora Canário"
+
+# Módulos do Len
+[[translation]]
+old = "Kagamine Len Swimwear"
+new = "Len Roupa de Banho"
+
+[[translation]]
+old = "School Jersey"
+new = "Jersey Escolar"
+
+[[translation]]
+old = "Kagamine Len Christmas"
+new = "Kagamine Len Natalino"
+
+[[translation]]
+old = "Punkish"
+new = "Estilo Punk"
+
+[[translation]]
+old = "Asymmetric L"
+new = "Assimétrico L"
+
+[[translation]]
+old = "Kagamine Len Swimwear WS"
+new = "Len Roupa de Banho WS"
+
+[[translation]]
+old = "Kagamine Len School Outfit"
+new = "Kagamine Len Uniforme"
+
+[[translation]]
+old = "Blue Moon"
+new = "Lua Azul"
+
+[[translation]]
+old = "Indigo"
+new = "Índigo"
+
+[[translation]]
+old = "Strangely Dark"
+new = "Estranhamente Sombrio"
+
+[[translation]]
+old = "Nameless No. 7"
+new = "Desconhecido Nº7"
+
+[[translation]]
+old = "Indigo Fox"
+new = "Raposa Índigo"
+
+[[translation]]
+old = "Starmine"
+new = "Fogos de Artifício"
+
+[[translation]]
+old = "Receiver"
+new = "Receptor"
+
+[[translation]]
+old = "Kagamine Len Hougetsu"
+new = "Kagamine Len Hougetsu (Lua de Fênix)"
+
+[[translation]]
+old = "Kagamine Len Crane"
+new = "Kagamine Len Grou"
+
+[[translation]]
+old = "Bad Boy"
+new = "Malvadinho"
+
+[[translation]]
+old = "Kagamine Len Swimshorts"
+new = "Kagamine Len Shorts de Banho"
+
+[[translation]]
+old = "Kagamine Len Yukata Style"
+new = "Kagamine Len Estilo Yukata"
+
+[[translation]]
+old = "Stylish Energy L"
+new = "Energia Estilosa L"
+
+[[translation]]
+old = "Student Council Officer"
+new = "Diretor do Conselho Estudantil"
+
+[[translation]]
+old = "Bad Boy Alt."
+new = "Malvadinho Alt."
+
+[[translation]]
+old = "Trickster"
+new = "Vigarista"
+
+[[translation]]
+old = "Ni-no-Sakura Fan Dance"
+new = "Ni-no-Sakura Dança de Leques"
+
+[[translation]]
+old = "Cheerful Len"
+new = "Len de Torcida"
+
+[[translation]]
+old = "Polar Bear in Love"
+new = "Urso Polar Apaixonado"
+
+[[translation]]
+old = "Thorned Rose"
+new = "Rosa Espinhosa"
+
+[[translation]]
+old = "Eraser"
+new = "Apagador"
+
+[[translation]]
+old = "White Edge"
+new = "Borda Branca"
+
+[[translation]]
+old = "Alparka Hoodie L"
+new = "Moletom Alparka L"
+
+[[translation]]
+old = "Kagamine Len Swimwear Tan"
+new = "Len Roupa de Banho Bronzeado"
+
+[[translation]]
+old = "Ice Fog"
+new = "Neblina de Gelo"
+
+[[translation]]
+old = "Bashful Parka Yellow"
+new = "Parka Tímido Amarelo"
+
+[[translation]]
+old = "Popstar Resort"
+new = "Popstar do Resort"
+
+[[translation]]
+old = "Bebop Knave"
+new = "Valete Animado"
+
+[[translation]]
+old = "Adolescence Knight"
+new = "Cavaleiro Adolescente"
+
+[[translation]]
+old = "Pajama Party Len"
+new = "Len Festa do Pijama"
+
+[[translation]]
+old = "Conductor Vermilion"
+new = "Condutor Cardeal"
+
+[[translation]]
+old = "Thorned Rose Alt."
+new = "Rosa Espinhosa Alt."
+
+[[translation]]
+old = "White T-Shirt Len"
+new = "Len Camiseta Branca"
+
+# Cabelos do Len
+[[translation]]
+old = "Kagamine Len Hair"
+new = "Cabelo de Kagamine Len"
+
+[[translation]]
+old = "Punkish Hair"
+new = "Cabelo de Estilo Punk"
+
+[[translation]]
+old = "Kagamine Len School Outfit Hair"
+new = "Cabelo de Kagamine Len Uniforme"
+
+[[translation]]
+old = "Kagamine Len Append Hair"
+new = "Cabelo de Kagamine Len Append"
+
+[[translation]]
+old = "Indigo Hair"
+new = "Cabelo de Índigo"
+
+[[translation]]
+old = "Blue Moon Hair"
+new = "Cabelo de Lua Azul"
+
+[[translation]]
+old = "Strangely Dark Hair"
+new = "Cabelo de Estranhamente Sombrio"
+
+[[translation]]
+old = "Student Council Officer Hair"
+new = "Cabelo de Diretor do Conselho Estudantil"
+
+[[translation]]
+old = "Kagamine Len Yukata Style Hair"
+new = "Cabelo de Kagamine Len Estilo Yukata"
+
+[[translation]]
+old = "Bad Boy Hair"
+new = "Cabelo de Malvadinho"
+
+[[translation]]
+old = "Bad Boy Alt. Hair"
+new = "Cabelo de Malvadinho Alt."
+
+[[translation]]
+old = "Kagamine Len Crane Hair"
+new = "Cabelo de Kagamine Len Grou"
+
+[[translation]]
+old = "Receiver Hair"
+new = "Cabelo de Receptor"
+
+[[translation]]
+old = "Kagamine Len Hougetsu Hair"
+new = "Cabelo de Kagamine Len Hougetsu (Lua de Fênix)"
+
+[[translation]]
+old = "Trickster Hair"
+new = "Cabelo de Vigarista"
+
+[[translation]]
+old = "Ni-no-Sakura Fan Dance Hair"
+new = "Cabelo de Ni-no-Sakura Dança de Leques"
+
+[[translation]]
+old = "Ice Fog Hair"
+new = "Cabelo de Neblina de Gelo"
+
+[[translation]]
+old = "Bashful Parka Yellow Hair"
+new = "Cabelo de Parka Tímido Amarelo"
+
+[[translation]]
+old = "Polar Bear in Love Hair"
+new = "Cabelo de Urso Polar Apaixonado"
+
+[[translation]]
+old = "Thorned Rose Hair"
+new = "Cabelo de Rosa Espinhosa"
+
+[[translation]]
+old = "White Edge Hair"
+new = "Cabelo de Borda Branca"
+
+[[translation]]
+old = "Popstar Resort Hair"
+new = "Cabelo de Popstar do Resort"
+
+[[translation]]
+old = "Kagamine Len Swimwear Hair"
+new = "Cabelo de Len Roupa de Banho"
+
+[[translation]]
+old = "Asymmetric L Hair"
+new = "Cabelo de Assimétrico L"
+
+[[translation]]
+old = "Kagamine Len Christmas Hair"
+new = "Cabelo de Kagamine Len Natalino"
+
+[[translation]]
+old = "Indigo Fox Hair"
+new = "Cabelo de Raposa Índigo"
+
+[[translation]]
+old = "Cheerful Len Hair"
+new = "Cabelo de Len de Torcida"
+
+[[translation]]
+old = "Kagamine Len Swimwear WS Hair"
+new = "Cabelo de Len Roupa de Banho WS"
+
+[[translation]]
+old = "Kagamine Len Swimshorts Hair"
+new = "Cabelo de Kagamine Len Shorts de Banho"
+
+[[translation]]
+old = "Nameless No. 7 Hair"
+new = "Cabelo de Desconhecido Nº7"
+
+[[translation]]
+old = "Eraser Hair"
+new = "Cabelo de Apagador"
+
+[[translation]]
+old = "Ciel Hair"
+new = "Cabelo de Ciel"
+
+[[translation]]
+old = "Thorned Rose Alt. Hair"
+new = "Cabelo de Rosa Espinhosa Alt."
+
+[[translation]]
+old = "Bebop Knave Hair"
+new = "Cabelo de Valete Animado"
+
+[[translation]]
+old = "Adolescence Knight Hair"
+new = "Cabelo de Cavaleiro Adolescente"
+
+[[translation]]
+old = "Kagamine Len Swimwear Tan Hair"
+new = "Cabelo de Len Roupa de Banho Bronzeado"
+
+[[translation]]
+old = "Pajama Party Len Hair"
+new = "Cabelo de Len Festa do Pijama"
+
+[[translation]]
+old = "Conductor Vermilion Hair"
+new = "Cabelo de Condutor Cardeal"
+
+# Módulos da Luka
+[[translation]]
+old = "Megurine Luka Swimwear"
+new = "Luka Roupa de Banho"
+
+[[translation]]
+old = "Megurine Luka Blossom"
+new = "Megurine Luka Florescer"
+
+[[translation]]
+old = "Megurine Luka Christmas"
+new = "Megurine Luka Natalina"
+
+[[translation]]
+old = "Hard Rock"
+new = "Metaleira"
+
+[[translation]]
+old = "Chiffon Dress"
+new = "Vestido de Chiffon"
+
+[[translation]]
+old = "VF Suit"
+new = "Roupa de VF"
+
+[[translation]]
+old = "Megurine Luka Swimwear P"
+new = "Luka Roupa de Banho P"
+
+[[translation]]
+old = "Witch Girl Style"
+new = "Estilo Bruxinha"
+
+[[translation]]
+old = "Fairy Macaron"
+new = "Fada Macaron"
+
+[[translation]]
+old = "Silence"
+new = "Silêncio"
+
+[[translation]]
+old = "Cybernation"
+new = "Cibernética"
+
+[[translation]]
+old = "Nagisa Replica"
+new = "Réplica de Nagisa"
+
+[[translation]]
+old = "Nagisa Replica Alt."
+new = "Réplica de Nagisa Alt."
+
+[[translation]]
+old = "Megurine Luka Conflict"
+new = "Megurine Luka Problemática"
+
+[[translation]]
+old = "Logicalist"
+new = "Logicalista"
+
+[[translation]]
+old = "Light & Casual"
+new = "Leve e Casual"
+
+[[translation]]
+old = "Eternal White"
+new = "Branco Eterno"
+
+[[translation]]
+old = "Megurine Luka Ruby"
+new = "Megurine Luka Rubi"
+
+[[translation]]
+old = "Megurine Luka Resort Bikini"
+new = "Megurine Luka Biquíni de Resort"
+
+[[translation]]
+old = "Megurine Luka Racing Swimsuit"
+new = "Luka Roupa de Banho de Corrida"
+
+[[translation]]
+old = "Megurine Luka Yukata Style"
+new = "Megurine Luka Estilo Yukata"
+
+[[translation]]
+old = "Wood Nymph"
+new = "Altina Sylphis"
+
+[[translation]]
+old = "Queen Bee"
+new = "Abelha Rainha"
+
+[[translation]]
+old = "After School Mode"
+new = "Modo Pós-Escola"
+
+[[translation]]
+old = "San-no-Sakura Maple"
+new = "San-no-Sakura Bordo" # Árvore "Acer"
+
+[[translation]]
+old = "Rin-chan's #2 Fan"
+new = "Fã Nº2 da Rin-chan"
+
+[[translation]]
+old = "Cabin Attendant Megurine Luka"
+new = "Assistente de Cabine Megurine Luka"
+
+[[translation]]
+old = "Cheerful Luka"
+new = "Luka de Torcida"
+
+[[translation]]
+old = "Successor"
+new = "Sucessora"
+
+[[translation]]
+old = "Temptation"
+new = "Tentação"
+
+[[translation]]
+old = "Recruiter"
+new = "Recrutadora"
+
+[[translation]]
+old = "Kitty Ears Hoodie"
+new = "Moletom de Gatinha"
+
+[[translation]]
+old = "Megurine Luka Swimwear P Tan"
+new = "Luka Roupa de Banho P Bronzeada"
+
+[[translation]]
+old = "Interviewer Luka"
+new = "Entrevistadora Luka"
+
+[[translation]]
+old = "Twinkle Resort"
+new = "Brilho do Resort"
+
+[[translation]]
+old = "Pajama Party Luka"
+new = "Luka Festa do Pijama"
+
+[[translation]]
+old = "Conductor Rose"
+new = "Condutora Rosa"
+
+[[translation]]
+old = "White T-Shirt Luka"
+new = "Luka Camiseta Branca"
+
+# Cabelos da Luka
+[[translation]]
+old = "Megurine Luka Hair"
+new = "Cabelo de Megurine Luka"
+
+[[translation]]
+old = "VF Suit Hair"
+new = "Cabelo de Roupa de VF"
+
+[[translation]]
+old = "Megurine Luka Blossom Hair"
+new = "Cabelo de Megurine Luka Florescer"
+
+[[translation]]
+old = "Megurine Luka Christmas Hair"
+new = "Cabelo de Megurine Luka Natalina"
+
+[[translation]]
+old = "Fairy Macaron Hair"
+new = "Cabelo de Fada Macaron"
+
+[[translation]]
+old = "Hard Rock Hair"
+new = "Cabelo de Metaleira"
+
+[[translation]]
+old = "Fräulein Hair"
+new = "Cabelo de Fräulein"
+
+[[translation]]
+old = "Witch Girl Style Hair"
+new = "Cabelo de Estilo Bruxinha"
+
+[[translation]]
+old = "Cybernation Hair"
+new = "Cabelo de Cibernética"
+
+[[translation]]
+old = "Megurine Luka Conflict Hair"
+new = "Cabelo de Megurine Luka Problemática"
+
+[[translation]]
+old = "Silence Hair"
+new = "Cabelo de Silêncio"
+
+[[translation]]
+old = "Racing Luka 2010 Ver. Hair"
+new = "Cabelo de Racing Luka 2010 Ver."
+
+[[translation]]
+old = "Nagisa Replica Hair"
+new = "Cabelo de Réplica de Nagisa"
+
+[[translation]]
+old = "Nagisa Replica Alt. Hair"
+new = "Cabelo de Réplica de Nagisa Alt."
+
+[[translation]]
+old = "Logicalist Hair"
+new = "Cabelo de Logicalista"
+
+[[translation]]
+old = "After School Mode Hair"
+new = "Cabelo de Modo Pós-Escola"
+
+[[translation]]
+old = "Megurine Luka Resort Bikini Hair"
+new = "Cabelo de Megurine Luka Biquíni de Resort"
+
+[[translation]]
+old = "Megurine Luka Racing Swimsuit Hair"
+new = "Cabelo de Luka Roupa de Banho de Corrida"
+
+[[translation]]
+old = "Megurine Luka Yukata Style Hair"
+new = "Cabelo de Megurine Luka Estilo Yukata"
+
+[[translation]]
+old = "Wood Nymph Hair"
+new = "Cabelo de Altina Sylphis"
+
+[[translation]]
+old = "Eternal White Hair"
+new = "Cabelo de Branco Eterno"
+
+[[translation]]
+old = "Light & Casual Hair"
+new = "Cabelo de Leve e Casual"
+
+[[translation]]
+old = "Amour Hair"
+new = "Cabelo de Amour"
+
+[[translation]]
+old = "Megurine Luka Ruby Hair"
+new = "Cabelo de Megurine Luka Rubi"
+
+[[translation]]
+old = "San-no-Sakura Maple Hair"
+new = "Cabelo de San-no-Sakura Bordo"
+
+[[translation]]
+old = "Rin-chan's #2 Fan Hair"
+new = "Cabelo de Fã Nº2 da Rin-chan"
+
+[[translation]]
+old = "Cheerful Luka Hair"
+new = "Cabelo de Luka de Torcida"
+
+[[translation]]
+old = "Cabin Attendant Megurine Luka Hair"
+new = "Cabelo de Assistente de Cabine Megurine Luka"
+
+[[translation]]
+old = "Interviewer Luka Hair"
+new = "Cabelo de Entrevistadora Luka"
+
+[[translation]]
+old = "Recruiter Hair"
+new = "Cabelo de Recrutadora"
+
+[[translation]]
+old = "Successor Hair"
+new = "Cabelo de Sucessora"
+
+[[translation]]
+old = "Twinkle Resort Hair"
+new = "Cabelo de Brilho do Resort"
+
+[[translation]]
+old = "Chiffon Dress Hair"
+new = "Cabelo de Vestido de Chiffon"
+
+[[translation]]
+old = "Megurine Luka Swimwear P Hair"
+new = "Cabelo de Luka Roupa de Banho P"
+
+[[translation]]
+old = "Queen Bee Hair"
+new = "Cabelo de Abelha Rainha"
+
+[[translation]]
+old = "Temptation Hair"
+new = "Cabelo de Tentação"
+
+[[translation]]
+old = "Floral Hair"
+new = "Cabelo de Floral"
+
+[[translation]]
+old = "Megurine Luka V4X Hair"
+new = "Cabelo de Megurine Luka V4X"
+
+[[translation]]
+old = "Megurine Luka Swimwear Hair"
+new = "Cabelo de Luka Roupa de Banho"
+
+[[translation]]
+old = "Megurine Luka Swimwear P Tan Hair"
+new = "Cabelo de Luka Roupa de Banho P Bronzeada"
+
+[[translation]]
+old = "Pajama Party Luka Hair"
+new = "Cabelo de Luka Festa do Pijama"
+
+[[translation]]
+old = "Conductor Rose Hair"
+new = "Cabelo de Condutora Rosa"
+
+# Módulos do KAITO
+[[translation]]
+old = "KAITO Swimwear"
+new = "KAITO Roupa de Banho"
+
+[[translation]]
+old = "KAITO Christmas"
+new = "KAITO Natalino"
+
+[[translation]]
+old = "Classic"
+new = "Clássico"
+
+[[translation]]
+old = "Cyber Cat"
+new = "Ciber-Gato"
+
+[[translation]]
+old = "KAITO Swimwear V"
+new = "KAITO Roupa de Banho V"
+
+[[translation]]
+old = "KAITO Swimwear V Alt."
+new = "KAITO Roupa de Banho V Alt."
+
+[[translation]]
+old = "White Blazer"
+new = "Blazer Branco"
+
+[[translation]]
+old = "Violet"
+new = "Violeta"
+
+[[translation]]
+old = "VF Ninja"
+new = "Ninja de VF"
+
+[[translation]]
+old = "VF Ninja Alt."
+new = "Ninja de VF Alt."
+
+# Desativado
+# [[translation]]
+# old = "On The Rocks" # Conflita com o nome da música "On The Rocks"
+# new = ""
+
+[[translation]]
+old = "Requiem"
+new = "Réquiem"
+
+[[translation]]
+old = "Guilty"
+new = "Culpado"
+
+[[translation]]
+old = "KAITO Half Tights"
+new = "KAITO Bermuda de Banho"
+
+[[translation]]
+old = "KAITO Yukata Style"
+new = "KAITO Estilo Yukata"
+
+[[translation]]
+old = "Genius"
+new = "Gênio"
+
+[[translation]]
+old = "School Uniform★Parka"
+new = "Parka★Escolar"
+
+[[translation]]
+old = "Rei-no-Sakura Azure Snow"
+new = "Rei-no-Sakura Neve Celeste"
+
+[[translation]]
+old = "Cheerful KAITO"
+new = "KAITO de Torcida"
+
+[[translation]]
+old = "Cheerful KAITO Alt."
+new = "KAITO de Torcida Alt."
+
+[[translation]]
+old = "Rosa Blue"
+new = "Rosa Azul"
+
+[[translation]]
+old = "Originator"
+new = "Originador"
+
+[[translation]]
+old = "Holiday"
+new = "Férias"
+
+[[translation]]
+old = "Fishy Overalls"
+new = "Kigurumi de Peixe"
+
+[[translation]]
+old = "KAITO Swimwear V Tan"
+new = "KAITO Roupa de Banho V Bronzeado"
+
+[[translation]]
+old = "KAITO Swimwear V Alt. Tan"
+new = "KAITO Roupa de Banho V Alt. Bronzeado"
+
+[[translation]]
+old = "Rei-no-Sakura White Snow"
+new = "Rei-no-Sakura Neve Pura"
+
+[[translation]]
+old = "Diamond Dust"
+new = "Pó de Diamante"
+
+[[translation]]
+old = "Bashful Parka Blue"
+new = "Parka Tímido Azul"
+
+[[translation]]
+old = "Plaid Resort"
+new = "Xadrez do Resort"
+
+[[translation]]
+old = "Prince Blanc"
+new = "Príncipe Blanc"
+
+[[translation]]
+old = "Pajama Party KAITO"
+new = "KAITO Festa do Pijama"
+
+[[translation]]
+old = "Phantom Thief KAITO"
+new = "KAITO Ladrão Fantasma"
+
+[[translation]]
+old = "Conductor Sky"
+new = "Condutor Céu"
+
+[[translation]]
+old = "White T-Shirt KAITO"
+new = "KAITO Camiseta Branca"
+
+# Cabelos do KAITO
+[[translation]]
+old = "KAITO Original Hair"
+new = "Cabelo de KAITO Original"
+
+[[translation]]
+old = "KAITO Christmas Hair"
+new = "Cabelo de KAITO Natalino"
+
+[[translation]]
+old = "Classic Hair"
+new = "Cabelo de Clássico"
+
+[[translation]]
+old = "White Blazer Hair"
+new = "Cabelo de Blazer Branco"
+
+[[translation]]
+old = "Campus Hair"
+new = "Cabelo de Campus"
+
+[[translation]]
+old = "Shigure Hair"
+new = "Cabelo de Shigure"
+
+[[translation]]
+old = "Violet Hair"
+new = "Cabelo de Violeta"
+
+[[translation]]
+old = "VF Ninja Hair"
+new = "Cabelo de Ninja de VF"
+
+[[translation]]
+old = "VF Ninja Alt. Hair"
+new = "Cabelo de Ninja de VF Alt."
+
+[[translation]]
+old = "School Uniform★Parka Hair"
+new = "Cabelo de Parka★Escolar"
+
+[[translation]]
+old = "Genius Hair"
+new = "Cabelo de Gênio"
+
+[[translation]]
+old = "KAITO Yukata Style Hair"
+new = "Cabelo de KAITO Estilo Yukata"
+
+[[translation]]
+old = "General Hair"
+new = "Cabelo de General"
+
+[[translation]]
+old = "General Alt. Hair"
+new = "Cabelo de General Alt."
+
+[[translation]]
+old = "Requiem Hair"
+new = "Cabelo de Réquiem"
+
+[[translation]]
+old = "Guilty Hair"
+new = "Cabelo de Culpado"
+
+[[translation]]
+old = "Rei-no-Sakura Azure Snow Hair"
+new = "Cabelo de Rei-no-Sakura Neve Celeste"
+
+[[translation]]
+old = "Rei-no-Sakura White Snow Hair"
+new = "Cabelo de Rei-no-Sakura Neve Pura"
+
+[[translation]]
+old = "Diamond Dust Hair"
+new = "Cabelo de Pó de Diamante"
+
+[[translation]]
+old = "Bashful Parka Blue Hair"
+new = "Cabelo de Parka Tímido Azul"
+
+[[translation]]
+old = "Holiday Hair"
+new = "Cabelo de Férias"
+
+[[translation]]
+old = "Plaid Resort Hair"
+new = "Cabelo de Xadrez do Resort"
+
+[[translation]]
+old = "Cyber Cat Hair"
+new = "Cabelo de Ciber-Gato"
+
+[[translation]]
+old = "KAITO V3 Hair"
+new = "Cabelo de KAITO V3"
+
+[[translation]]
+old = "Cheerful KAITO Hair"
+new = "Cabelo de KAITO de Torcida"
+
+[[translation]]
+old = "Cheerful KAITO Alt. Hair"
+new = "Cabelo de KAITO de Torcida Alt."
+
+[[translation]]
+old = "KAITO Swimwear Hair"
+new = "Cabelo de KAITO Roupa de Banho"
+
+[[translation]]
+old = "KAITO Swimwear V Hair"
+new = "Cabelo de KAITO Roupa de Banho V"
+
+[[translation]]
+old = "KAITO Swimwear V Alt. Hair"
+new = "Cabelo de KAITO Roupa de Banho V Alt."
+
+[[translation]]
+old = "KAITO Half Tights Hair"
+new = "Cabelo de KAITO Bermuda de Banho"
+
+# Original Desativado
+# [[translation]]
+# old = "On The Rocks Hair"
+# new = ""
+
+[[translation]]
+old = "Originator Hair"
+new = "Cabelo de Originador"
+
+[[translation]]
+old = "Prince Blanc Hair"
+new = "Cabelo de Príncipe Blanc"
+
+[[translation]]
+old = "Rosa Blue Hair"
+new = "Cabelo de Rosa Azul"
+
+[[translation]]
+old = "KAITO Swimwear V Tan Hair"
+new = "Cabelo de KAITO Roupa de Banho V Bronzeado"
+
+[[translation]]
+old = "KAITO Swimwear V Alt. Tan Hair"
+new = "Cabelo de KAITO Roupa de Banho V Alt. Bronzeado"
+
+[[translation]]
+old = "Rosa Luno Hair"
+new = "Cabelo de Rosa Luno"
+
+[[translation]]
+old = "Pajama Party KAITO Hair"
+new = "Cabelo de KAITO Festa do Pijama"
+
+[[translation]]
+old = "Phantom Thief KAITO Hair"
+new = "Cabelo de KAITO Ladrão Fantasma"
+
+[[translation]]
+old = "Conductor Sky Hair"
+new = "Cabelo de Condutor Céu"
+
+# Módulos da MEIKO
+[[translation]]
+old = "MEIKO Swimwear"
+new = "MEIKO Roupa de Banho"
+
+[[translation]]
+old = "MEIKO Christmas"
+new = "MEIKO Natalina"
+
+[[translation]]
+old = "Scarlet"
+new = "Escarlate"
+
+[[translation]]
+old = "Fluffy Coat"
+new = "Casaco Felpudo"
+
+[[translation]]
+old = "Modern Girl"
+new = "Garota Moderna"
+
+[[translation]]
+old = "Modern Girl Alt."
+new = "Garota Moderna Alt."
+
+[[translation]]
+old = "MEIKO Swimwear B"
+new = "MEIKO Roupa de Banho B"
+
+[[translation]]
+old = "Taisho Nostalgia"
+new = "Nostalgia Taisho"
+
+[[translation]]
+old = "Sweet Pudding"
+new = "Pudim Doce"
+
+[[translation]]
+old = "Lin Xiao-Mei Costume"
+new = "Roupa de Lin Xiao-Mei"
+
+[[translation]]
+old = "Blue Crystal"
+new = "Cristal Azul"
+
+[[translation]]
+old = "Noel Rouge"
+new = "Vermelho Noel"
+
+[[translation]]
+old = "MEIKO Long Pareo"
+new = "MEIKO Pareô Longo"
+
+[[translation]]
+old = "MEIKO Water Polo"
+new = "MEIKO Polo Aquático"
+
+[[translation]]
+old = "MEIKO Yukata Style"
+new = "MEIKO Estilo Yukata"
+
+[[translation]]
+old = "Whistle"
+new = "Apito"
+
+[[translation]]
+old = "Graduate"
+new = "Graduada"
+
+[[translation]]
+old = "Border Break Operator"
+new = "Operadora de Border Break"
+
+[[translation]]
+old = "Rei-no-Sakura Camellia"
+new = "Rei-no-Sakura Camélia"
+
+[[translation]]
+old = "Cabin Attendant MEIKO"
+new = "Assistente de Cabine MEIKO"
+
+[[translation]]
+old = "Cheerful MEIKO"
+new = "MEIKO de Torcida"
+
+[[translation]]
+old = "Blazing"
+new = "Ardente"
+
+[[translation]]
+old = "Marine Ribbons"
+new = "Laços Marinhos"
+
+[[translation]]
+old = "Wooly Wear"
+new = "Vestimenta de Lã"
+
+[[translation]]
+old = "MEIKO Swimwear Tan"
+new = "MEIKO Roupa de Banho Bronzeada"
+
+[[translation]]
+old = "Bicolor Ribbon Resort"
+new = "Laço Bicolor do Resort"
+
+[[translation]]
+old = "Pajama Party MEIKO"
+new = "MEIKO Festa do Pijama"
+
+[[translation]]
+old = "Phantom Thief MEIKO"
+new = "MEIKO Ladra Fantasma"
+
+[[translation]]
+old = "Conductor Crimson Wine"
+new = "Condutora Vinho Carmesim"
+
+[[translation]]
+old = "White T-Shirt MEIKO"
+new = "MEIKO Camiseta Branca"
+
+# Cabelos da MEIKO
+[[translation]]
+old = "MEIKO Original Hair"
+new = "Cabelo de MEIKO Original"
+
+[[translation]]
+old = "Modern Girl Hair"
+new = "Cabelo de Garota Moderna"
+
+[[translation]]
+old = "Modern Girl Alt. Hair"
+new = "Cabelo de Garota Moderna Alt."
+
+[[translation]]
+old = "MEIKO Swimwear B Hair"
+new = "Cabelo de MEIKO Roupa de Banho B"
+
+[[translation]]
+old = "MEIKO Christmas Hair"
+new = "Cabelo de MEIKO Natalina"
+
+[[translation]]
+old = "Sweet Pudding Hair"
+new = "Cabelo de Pudim Doce"
+
+[[translation]]
+old = "Fluffy Coat Hair"
+new = "Cabelo de Casaco Felpudo"
+
+[[translation]]
+old = "Scarlet Hair"
+new = "Cabelo de Escarlate"
+
+[[translation]]
+old = "Taisho Nostalgia Hair"
+new = "Cabelo de Nostalgia Taisho"
+
+[[translation]]
+old = "Momiji Hair"
+new = "Cabelo de Momiji"
+
+[[translation]]
+old = "Lorelei Hair"
+new = "Cabelo de Lorelei"
+
+[[translation]]
+old = "Lin Xiao-Mei Costume Hair"
+new = "Cabelo de Roupa de Lin Xiao-Mei"
+
+[[translation]]
+old = "Graduate Hair"
+new = "Cabelo de Graduada"
+
+[[translation]]
+old = "Whistle Hair"
+new = "Cabelo de Apito"
+
+[[translation]]
+old = "MEIKO Long Pareo Hair"
+new = "Cabelo de MEIKO Pareô Longo"
+
+[[translation]]
+old = "MEIKO Water Polo Hair"
+new = "Cabelo de MEIKO Polo Aquático"
+
+[[translation]]
+old = "MEIKO Yukata Style Hair"
+new = "Cabelo de MEIKO Estilo Yukata"
+
+[[translation]]
+old = "Border Break Operator Hair"
+new = "Cabelo de Operadora de Border Break"
+
+[[translation]]
+old = "Blue Crystal Hair"
+new = "Cabelo de Cristal Azul"
+
+[[translation]]
+old = "Noel Rouge Hair"
+new = "Cabelo de Vermelho Noel"
+
+[[translation]]
+old = "Rei-no-Sakura Camellia Hair"
+new = "Cabelo de Rei-no-Sakura Camélia"
+
+[[translation]]
+old = "Cheerful MEIKO Hair"
+new = "Cabelo de MEIKO de Torcida"
+
+[[translation]]
+old = "Cabin Attendant MEIKO Hair"
+new = "Cabelo de Assistente de Cabine MEIKO"
+
+[[translation]]
+old = "MEIKO V3 Hair"
+new = "Cabelo de MEIKO V3"
+
+[[translation]]
+old = "Blazing Hair"
+new = "Cabelo de Ardente"
+
+[[translation]]
+old = "Marine Ribbons Hair"
+new = "Cabelo de Laços Marinhos"
+
+[[translation]]
+old = "Bicolor Ribbon Resort Hair"
+new = "Cabelo de Laço Bicolor do Resort"
+
+[[translation]]
+old = "MEIKO Swimwear Hair"
+new = "Cabelo de MEIKO Roupa de Banho"
+
+[[translation]]
+old = "Racing Meiko 2010 Ver. Hair"
+new = "Cabelo de Racing Meiko 2010 Ver."
+
+[[translation]]
+old = "Wooly Wear Hair"
+new = "Cabelo de Vestimenta de Lã"
+
+[[translation]]
+old = "MEIKO Swimwear Tan Hair"
+new = "Cabelo de MEIKO Roupa de Banho Bronzeada"
+
+[[translation]]
+old = "Pajama Party MEIKO Hair"
+new = "Cabelo de MEIKO Festa do Pijama"
+
+[[translation]]
+old = "Phantom Thief MEIKO Hair"
+new = "Cabelo de MEIKO Ladra Fantasma"
+
+[[translation]]
+old = "Conductor Crimson Wine Hair"
+new = "Cabelo de Condutora Vinho Carmesim"
+
+# Módulos da Neru
+[[translation]]
+old = "Aborigine"
+new = "Aborígine"
+
+[[translation]]
+old = "Akita Neru Swimwear"
+new = "Neru Roupa de Banho"
+
+[[translation]]
+old = "School Club Girl"
+new = "Garota do Clube Escolar"
+
+# Cabelos da Neru
+[[translation]]
+old = "Akita Neru Hair"
+new = "Cabelo de Akita Neru"
+
+[[translation]]
+old = "School Club Girl Hair"
+new = "Cabelo de Garota do Clube Escolar"
+
+[[translation]]
+old = "Aborigine Hair"
+new = "Cabelo de Aborígine"
+
+[[translation]]
+old = "Akita Neru Swimwear Hair"
+new = "Cabelo de Neru Roupa de Banho"
+
+# Módulos da Haku
+[[translation]]
+old = "Cyber Dive"
+new = "Ciber-Mergulho"
+
+[[translation]]
+old = "Yowane Haku Swimwear"
+new = "Haku Roupa de Banho"
+
+[[translation]]
+old = "Gothic Purple"
+new = "Roxo Gótico"
+
+# Cabelos da Haku
+[[translation]]
+old = "Yowane Haku Hair"
+new = "Cabelo de Yowane Haku"
+
+[[translation]]
+old = "Cyber Dive Hair"
+new = "Cabelo de Ciber-Mergulho"
+
+[[translation]]
+old = "Gothic Purple Hair"
+new = "Cabelo de Roxo Gótico"
+
+[[translation]]
+old = "Yowane Haku Swimwear Hair"
+new = "Cabelo de Haku Roupa de Banho"
+
+# Módulos da Sakine Meiko
+[[translation]]
+old = "Black Dress"
+new = "Vestido Preto"
+
+[[translation]]
+old = "Black Dress Alt."
+new = "Vestido Preto Alt."
+
+[[translation]]
+old = "Sakine Meiko Swimwear"
+new = "Sakine Meiko Roupa de Banho"
+
+# Cabelos da Sakine Meiko
+[[translation]]
+old = "Sakine Meiko Hair"
+new = "Cabelo de Sakine Meiko"
+
+[[translation]]
+old = "Nostalgia Hair"
+new = "Cabelo de Nostalgia"
+
+[[translation]]
+old = "Black Dress Hair"
+new = "Cabelo de Vestido Preto"
+
+[[translation]]
+old = "Black Dress Alt. Hair"
+new = "Cabelo de Vestido Preto Alt."
+
+[[translation]]
+old = "Sakine Meiko Swimwear Hair"
+new = "Cabelo de Sakine Meiko Roupa de Banho"
+
+# Módulos da Teto
+[[translation]]
+old = "M.S.J"
+new = "Jaqueta Militar Fofa"
+
+[[translation]]
+old = "Kasane Teto Swimwear"
+new = "Teto Roupa de Banho"
+
+# Cabelos da Teto
+[[translation]]
+old = "Kasane Teto Hair"
+new = "Cabelo de Kasane Teto"
+
+[[translation]]
+old = "Kasane Teto Swimwear Hair"
+new = "Cabelo de Teto Roupa de Banho"
+
+[[translation]]
+old = "M.S.J. Hair"
+new = "Cabelo de Jaqueta Militar Fofa"
