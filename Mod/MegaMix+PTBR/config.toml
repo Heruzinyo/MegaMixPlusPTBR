@@ -1,8 +1,0 @@
-enabled = true
-name = "MegaMix+PTBR"
-author = "Heruzinyo"
-version = "0.0.2"
-date = "14/08/2023"
-description = "Projeto de tradução em português brasileiro para o Mega Mix+"
-include = ["."]
-dll = ["lang.dll"]

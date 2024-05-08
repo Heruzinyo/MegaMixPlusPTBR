@@ -71,35 +71,35 @@ new = "Máscara Anime de Dormir"
 
 [[translation]]
 old = "Black Eyepatch"
-new = "Tapa-olho Preto"
+new = "Tapa-Olho Preto"
 
 [[translation]]
 old = "Green Eyepatch"
-new = "Tapa-olho Verde"
+new = "Tapa-Olho Verde"
 
 [[translation]]
 old = "Yellow Eyepatch"
-new = "Tapa-olho Amarelo"
+new = "Tapa-Olho Amarelo"
 
 [[translation]]
 old = "Orange Eyepatch"
-new = "Tapa-olho Laranja"
+new = "Tapa-Olho Laranja"
 
 [[translation]]
 old = "Pink Eyepatch"
-new = "Tapa-olho Rosa"
+new = "Tapa-Olho Rosa"
 
 [[translation]]
 old = "Blue Eyepatch"
-new = "Tapa-olho Azul"
+new = "Tapa-Olho Azul"
 
 [[translation]]
 old = "Red Eyepatch"
-new = "Tapa-olho Vermelho"
+new = "Tapa-Olho Vermelho"
 
 [[translation]]
 old = "White Eyepatch"
-new = "Tapa-olho Branco"
+new = "Tapa-Olho Branco"
 
 [[translation]]
 old = "Blue Chinese Opera Mask"
@@ -667,7 +667,7 @@ new = "Coração"
 old = "Broken Heart"
 new = "Coração Partido"
 
-# Costas
+# Costa
 [[translation]]
 old = "Light Wings"
 new = "Asas da Luz"

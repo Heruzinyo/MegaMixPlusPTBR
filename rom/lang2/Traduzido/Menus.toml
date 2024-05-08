@@ -14,16 +14,12 @@ old = "Not enough VP."
 new = "PV Insuficiente."
 
 [[translation]]
-old = "You cannot change the hairstyle\nfor this module."
+old = "You cannot change the hairstyle \nfor this module."
 new = "Você não pode mudar o cabelo\ndesse módulo."
 
 [[translation]]
 old = "Extra Characters"
 new = "Personagens Extras"
-
-[[translation]]
-old = "You cannot change the hairstyle\nfor this module."
-new = "Você não pode mudar o cabelo\ndesse módulo."
 
 [[translation]]
 old = "Some icons have not been configured."
@@ -407,7 +403,7 @@ new = "Escolha onde deseja exibir combos: à direita, à esquerda ou no centro."
 
 [[translation]]
 old = "Adjust the cursor sensitivity. Higher values increase sensitivity." # Cursor > Joy-Con
-new = "Ajuste a sensibilidade dos analógicos/deslizamento. Valores mais altos aumentam a sensibilidade."
+new = "Ajuste a sensibilidade do Joy-Con durate o Modo Mix. Valores mais altos aumentam a sensibilidade."
 
 [[translation]]
 old = "Change loading screen backgrounds."
@@ -421,9 +417,10 @@ new = "Veja o manual"
 old = "Set the Arcade Controller to ON or OFF, and calibrate the controller."
 new = "Define o controle no modo ARCADE para LIGADO ou DESLIGADO e a sua calibragem."
 
-[[translation]]
-old = "When the Arcade Controller is set to ON,\nthe Left Stick and Right Stick controls\nwill change to support the Touch Slider instead.\nThis can make normal controls difficult, so please\nonly enable this setting when using the Arcade Controller."
-new = "Quando o controle ARCADE está definido para LIGADO,\nos analógicos Esquerdo e Direito\nmudarão para o modo de Deslizamento.\nIsso pode dificultar os controles normais, portanto,\nAtive esta configuração apenas ao usar o controle ARCADE."
+# BUGADO
+# [[translation]]
+# old = "\nWhen the Arcade Controller is set to ON,\nthe Left Stick and Right Stick controls\nwill change to support the Touch Slider instead.\nThis can make normal controls difficult, so please\nonly enable this setting when using the Arcade Controller."
+# new = "\nQuando o controle ARCADE está definido para LIGADO,\nos analógicos Esquerdo e Direito\nmudarão para o modo de Deslizamento.\nIsso pode dificultar os controles normais, portanto,\nAtive esta configuração apenas ao usar o controle ARCADE."
 
 [[translation]]
 old = "Turn Tap Play On/Off. Learn more about Tap Play in Help."
@@ -556,8 +553,8 @@ new = "Veja as informações de licença."
 
 # nswgam_game
 [[translation]]
-old = "There is not enough free space in the System Memory.\nFailed to save screenshot."
-new = "Não há espaço livre suficiente na Memória do Sistema.\nFalha ao salvar captura de tela."
+old = "There is not enough free space in the System Memory. \nFailed to save screenshot."
+new = "Não há espaço livre suficiente na Memória do Sistema. \nFalha ao salvar captura de tela."
 
 [[translation]]
 old = "Enable" # Também é usado em outros lugares
@@ -767,21 +764,24 @@ old = "Rename"
 new = "Renomear"
 
 # nswgam_result
-[[translation]]
-old = "You cleared the song on HARD difficulty!\n\nYou can now play this song on EXTREME difficulty!\nClearing HARD difficulty unlocks a new EXTREME\ndifficulty level for each song, and on certain\nsongs, an EXTRA EXTREME difficulty too!"
-new = "Você concluiu a música na dificuldade DIFÍCIL!\n\nAgora você pode jogar esta música na dificuldade EXTREMA!\nConcluindo a dificuldade DIFÍCIL, você desbloqueia um novo nível de dificuldade\nEXTREMa para cada música e, em\ndeterminadas músicas, uma dificuldade EXTRA EXTREMA também!"
+# BUGADO
+#[[translation]]
+#old = "\n\nYou cleared the song on HARD difficulty!\n\nYou can now play this song on EXTREME difficulty!\nClearing HARD difficulty unlocks a new EXTREME\ndifficulty level for each song, and on certain\nsongs, an EXTRA EXTREME difficulty too!"
+#new = "\n\nVocê concluiu a música na dificuldade DIFÍCIL!\n\nAgora você pode jogar esta música na dificuldade EXTREMA!\nConcluindo a dificuldade DIFÍCIL, você desbloqueia um novo nível de dificuldade\nEXTREMa para cada música e, em\ndeterminadas músicas, uma dificuldade EXTRA EXTREMA também!"
+
+# BUGADO
+#[[translation]]
+#old = "\n\nYou cleared the song on HARD difficulty!\n\nYou can now play this song on EXTREME\nor EXTRA EXTREME difficulty!\nClearing HARD difficulty unlocks a new EXTREME\ndifficulty level for each song, and on certain\nsongs, an EXTRA EXTREME difficulty too!"
+#new = "\n\nVocê concluiu a música na dificuldade DIFÍCIL!\n\nAgora você pode jogar esta música na dificuldade EXTREMA\ne na dificuldade EXTRA EXTREMA!\nConcluindo a dificuldade DIFÍCIL você desbloqueia um novo nível de dificuldade\nEXTREMA para cada música e, em\ndeterminadas músicas, uma dificuldade EXTRA EXTREMA também!"
+
+# BUGADO
+#[[translation]]
+#old = "\n\n\nYou cleared the song on NORMAL difficulty!\n\nYou can now play this song on HARD difficulty!\nClearing NORMAL difficulty unlocks a new HARD\ndifficulty level for each song!"
+#new = "\n\n\nVocê concluiu a música na dificuldade NORMAL!\n\nAgora você pode tocar esta música na dificuldade DIFÍCIL!\nA conclusão da dificuldade NORMAL desbloqueia um novo nível de\ndificuldade DIFÍCIL para cada música!"
 
 [[translation]]
-old = "You cleared the song on HARD difficulty!\n\nYou can now play this song on EXTREME\nor EXTRA EXTREME difficulty!\nClearing HARD difficulty unlocks a new EXTREME\ndifficulty level for each song, and on certain\nsongs, an EXTRA EXTREME difficulty too!"
-new = "Você concluiu a música na dificuldade DIFÍCIL!\n\nAgora você pode jogar esta música na dificuldade EXTREMA\ne na dificuldade EXTRA EXTREMA!\nConcluindo a dificuldade DIFÍCIL você desbloqueia um novo nível de dificuldade\nEXTREMA para cada música e, em\ndeterminadas músicas, uma dificuldade EXTRA EXTREMA também!"
-
-[[translation]]
-old = "You cleared the song on NORMAL difficulty!\n\nYou can now play this song on HARD difficulty!\nClearing NORMAL difficulty unlocks a new HARD\ndifficulty level for each song!"
-new = "Você concluiu a música na dificuldade NORMAL!\n\nAgora você pode tocar esta música na dificuldade DIFÍCIL!\nA conclusão da dificuldade NORMAL desbloqueia um novo nível de\ndificuldade DIFÍCIL para cada música!"
-
-[[translation]]
-old = "Failed to upload rankings.\n\nUploads to the rankings can occur any time the game is running.\nYou can change upload settings at any time under Rankings in the Gallery."
-new = "Não foi possível enviar os rankings.\n\nEnvios para os rankings podem ocorrer a qualquer momento que o jogo estiver em andamento.\nVocê pode alterar as configurações de envio a qualquer momento em Rankings na Galeria."
+old = "Failed to upload rankings.\n\nUploads to the rankings can occur any time the game is running. \nYou can change upload settings at any time under Rankings in the Gallery."
+new = "Não foi possível enviar os rankings.\n\nEnvios para os rankings podem ocorrer a qualquer momento que o jogo estiver em andamento. \nVocê pode alterar as configurações de envio a qualquer momento em Rankings na Galeria."
 
 # nswgam_songselector
 [[translation]]
@@ -854,9 +854,10 @@ new = "Não foi possível criar dados de salvamento.\nPor favor, libere espaço 
 old = "Save data is corrupted.\nPlease delete save data."
 new = "Dados de salvamento estão corrompidos.\nPor favor, exclua os dados corrompidos."
 
-[[translation]]
-old = "This game supports Autosave.\nDo not turn off the system while the following image is\ndisplayed.\nThis could cause save data to become corrupted.\n\nYou can turn Autosave ON/OFF under Options."
-new = "Este jogo oferece suporte ao salvamento automático.\nNão desligue o sistema enquanto a seguinte imagem estiver\nexibida.\nIsso pode corromper os dados salvos.\n\nVocê pode HABILITAR/DESABILITAR o salvamento automático em Opções."
+# BUGADO
+#[[translation]]
+#old = "\nThis game supports Autosave. \nDo not turn off the system while the following image is \ndisplayed. \nThis could cause save data to become corrupted.\n\nYou can turn Autosave ON\\OFF under Options."
+#new = "\nEste jogo oferece suporte ao salvamento automático.\nNão desligue o sistema enquanto a seguinte imagem estiver\nexibida.\nIsso pode corromper os dados salvos.\n\nVocê pode HABILITAR/DESABILITAR o salvamento automático em Opções."
 
 [[translation]]
 old = "Autosave has been enabled.\n\nDo not turn off the system\nwhile the following image is displayed.\nThis could cause save data to become corrupted."
