@@ -1,11 +1,11 @@
 ![](/Promotional/GameBanana/Preview&#32;1&#32;(Social&#32;Preview&#32;ver.).png)
 # Esse projeto visa traduzir o jogo [Hatsune Miku: Project DIVA Mega Mix+](https://store.steampowered.com/app/1761390/Hatsune_Miku_Project_DIVA_Mega_Mix/) criado por [SEGA](https://store.steampowered.com/developer/Sega) para Português Brasileiro.
 
-Esse projeto encontra-se licenciado sob a licença **[Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt_BR)**.
+Esse projeto encontra-se licenciado sob a licença **[Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional. (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br)**.
 
 Por favor, leia o **Manual da Tradução** dentro dos arquivos do Mod.
 
-Você pode criar um fork, clonar o repositório ou utilizar os arquivos no qual traduzi (os arquivos PSD, por exemplo) como base para outros projetos, mas por favor não esqueça de me creditar e me pedir permisão para publicar sua derivação.
+Você pode criar um fork, clonar o repositório ou utilizar os arquivos no qual traduzi (os arquivos PSD, por exemplo) como base para outros projetos, mas por favor não esqueça de me creditar.
 
 ## Créditos
 ![](/rom/2d/spr_nswgam_adv/Sprite/Traduzido/Nova&#32;Textura/TEXTO_TRADUCAO.png)
